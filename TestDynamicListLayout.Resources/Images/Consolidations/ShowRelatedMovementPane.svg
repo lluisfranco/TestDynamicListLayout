@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4.625 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, -2.625)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <path d="M16.033, 14L1.967, 14C0.881, 14 0, 13.119 0, 12.033L0, 4.967C0, 3.881 0.881, 3 1.967, 3L16.034, 3C17.119, 3 18, 3.881 18, 4.967L18, 12.034C18, 13.119 17.119, 14 16.033, 14zM32, 27.033L32, 19.966C32, 18.88 31.119, 17.999 30.033, 17.999L15.967, 17.999C14.881, 17.999 14, 18.88 14, 19.966L14, 27.033C14, 28.119 14.881, 29 15.967, 29L30.034, 29C31.119, 29 32, 28.119 32, 27.033z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -2.625)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <path d="M7.866, 19.77C7.818, 19.725 7.755, 19.7 7.69, 19.7L5.358, 19.707C5.254, 19.707 5.202, 19.833 5.276, 19.906L8.33, 23.008L1.333, 23.008C1.192, 23.008 1.068, 23.091 1.068, 23.232L1.068, 23.791L1.068, 24.292L1.068, 24.73C1.068, 24.871 1.183, 24.986 1.324, 24.986L8.32, 24.986L5.275, 28.1C5.202, 28.174 5.254, 28.299 5.358, 28.299L7.677, 28.299C7.743, 28.299 7.807, 28.273 7.854, 28.228C7.854, 28.228 11.142, 24.913 11.909, 24.137C11.987, 24.058 11.987, 23.933 11.908, 23.855C11.142, 23.094 7.866, 19.77 7.866, 19.77z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 11.375)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 11.375)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 11.375)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Safe_1_">
+      <path d="M29, 2L3, 2C2.5, 2 2, 2.5 2, 3L2, 29C2, 29.5 2.5, 30 3, 30L29, 30C29.5, 30 30, 29.5 30, 29L30, 3C30, 2.5 29.5, 2 29, 2zM26, 26L6, 26L6, 6L26, 6L26, 26z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Safe_1_">
+      <path d="M8, 8L8, 24L24, 24L24, 8L8, 8zM20, 16C20, 16.7 19.8, 17.4 19.4, 18L21.7, 20.3C22.1, 20.7 22.1, 21.3 21.7, 21.7C21.3, 22.1 20.7, 22.1 20.3, 21.7L18, 19.4C17.4, 19.8 16.7, 20 16, 20C15.3, 20 14.6, 19.8 14, 19.4L11.7, 21.7C11.3, 22.1 10.7, 22.1 10.3, 21.7C9.9, 21.3 9.9, 20.7 10.3, 20.3L12.6, 18C12.2, 17.4 12, 16.7 12, 16C12, 15.3 12.2, 14.6 12.6, 14L10.3, 11.7C9.9, 11.3 9.9, 10.7 10.3, 10.3C10.7, 9.9 11.3, 9.9 11.7, 10.3L14, 12.6C14.6, 12.2 15.3, 12 16, 12C16.7, 12 17.4, 12.2 18, 12.6L20.3, 10.3C20.7, 9.9 21.3, 9.9 21.7, 10.3C22.1, 10.7 22.1, 11.3 21.7, 11.7L19.4, 14C19.8, 14.6 20, 15.3 20, 16z" fill="Transparent" class="Transparent" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Safe_1_">
+      <circle cx="16" cy="16" r="2" fill="Transparent" class="Transparent" />
+    </g>
+  </g>
+</svg>

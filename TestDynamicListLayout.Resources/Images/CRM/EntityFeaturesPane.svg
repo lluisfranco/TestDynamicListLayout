@@ -1,0 +1,108 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -0.44 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="clip_mask" tag="staticElement_id61202487">
+    <path d="M32, 0L32, 32L14.962, 32C14.986, 31.901 15, 31.798 15, 31.692L15, 30.309C15, 29.694 14.573, 29.176 14, 29.037L14, 17.308C14, 16.587 13.413, 16 12.692, 16L1.308, 16C0.587, 16 0, 16.587 0, 17.308L0, 0L32, 0z" fill="#727272" fill-opacity="1" class="Black" />
+  </clipPath>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(1, 0)">
+              <path d="M2.7, 11L29.7, 11L29.7, 13L2.6, 13L2.7, 11z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(1, 0)">
+              <path d="M2.6, 19L29.7, 19L29.7, 21L3, 21L2.6, 19z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(1, 0)">
+              <path d="M19.4033, 2.4964L17.1091, 2.4964C17.1091, 2.4964 19.8, 9.5494 19.8, 15.8643C19.8, 21.9923 17.1091, 29.3505 17.1091, 29.3505L19.4033, 29.3505C19.4033, 29.3505 22.0942, 22.0658 22.0942, 15.9764C22.0942, 9.6256 19.4033, 2.4964 19.4033, 2.4964z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(1, 0)">
+              <path d="M12.765, 2.4964L14.9292, 2.4964C14.9292, 2.4964 12.2383, 9.5494 12.2383, 15.8643C12.2383, 21.9923 14.9292, 29.3505 14.9292, 29.3505L12.765, 29.3505C12.765, 29.3505 10, 22.0658 10, 15.9764C10, 9.6256 12.765, 2.4964 12.765, 2.4964z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(1, 0)">
+              <path d="M16.007, 30.9366C7.7674, 30.9366 1.064, 24.2331 1.064, 15.9933C1.064, 7.7535 7.7674, 1.05 16.007, 1.05C24.2466, 1.05 30.95, 7.7535 30.95, 15.9933C30.95, 24.2331 24.2466, 30.9366 16.007, 30.9366zM16.007, 3.5966C9.1716, 3.5966 3.6106, 9.1577 3.6106, 15.9933C3.6106, 22.8289 9.1716, 28.39 16.007, 28.39C22.8424, 28.39 28.4034, 22.8289 28.4034, 15.9933C28.4034, 9.1577 22.8424, 3.5966 16.007, 3.5966z" fill="#039C23" fill-opacity="1" class="Green" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="overlay">
+            <path d="M13.692, 30L13, 30L13, 17.308C13, 17.138 12.862, 17 12.692, 17L1.308, 17C1.138, 17 1, 17.138 1, 17.308L1, 30L0.308, 30C0.138, 30 0, 30.138 0, 30.308L0, 31.691C0, 31.861 0.138, 31.999 0.308, 31.999L1.308, 31.999L12.691, 31.999L13.691, 31.999C13.861, 31.999 13.999, 31.861 13.999, 31.691L13.999, 30.308C14, 30.138 13.862, 30 13.692, 30zM6, 19L8, 19L8, 21L6, 21L6, 19zM6, 22L8, 22L8, 24L6, 24L6, 22zM6, 25L8, 25L8, 27L6, 27L6, 25zM3, 19L5, 19L5, 21L3, 21L3, 19zM3, 22L5, 22L5, 24L3, 24L3, 22zM3, 25L5, 25L5, 27L3, 27L3, 25zM9, 31L5, 31L5, 28L9, 28L9, 31zM11, 27L9, 27L9, 25L11, 25L11, 27zM11, 24L9, 24L9, 22L11, 22L11, 24zM11, 21L9, 21L9, 19L11, 19L11, 21z" fill="#1177D7" fill-opacity="1" class="Blue" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9224)">
+    <g transform="matrix(0.8764, 0, 0, 0.8764, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="overlay">
+            <path d="M5, 21L3, 21L3, 19L5, 19L5, 21zM8, 19L6, 19L6, 21L8, 21L8, 19zM11, 19L9, 19L9, 21L11, 21L11, 19zM5, 24L3, 24L3, 22L5, 22L5, 24zM8, 22L6, 22L6, 24L8, 24L8, 22zM11, 22L9, 22L9, 24L11, 24L11, 22zM5, 27L3, 27L3, 25L5, 25L5, 27zM8, 25L6, 25L6, 27L8, 27L8, 25zM11, 25L9, 25L9, 27L11, 27L11, 25zM9, 28L5, 28L5, 31L9, 31L9, 28z" fill="#FFFFFF" fill-opacity="1" class="White" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 15.56)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 15.56)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 15.56)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

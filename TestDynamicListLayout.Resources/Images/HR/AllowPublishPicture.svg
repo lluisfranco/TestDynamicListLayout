@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Image">
+      <path d="M29, 4L3, 4C2.5, 4 2, 4.5 2, 5L2, 27C2, 27.5 2.5, 28 3, 28L29, 28C29.5, 28 30, 27.5 30, 27L30, 5C30, 4.5 29.5, 4 29, 4zM28, 26L4, 26L4, 6L28, 6L28, 26z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Image">
+      <circle cx="21" cy="11" r="3" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Image">
+      <polygon points="20,24 10,14 6,18 6,24  " fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="Image">
+      <g class="st1">
+        <polygon points="22,24 18,20 20,18 26,24   " fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 16)">
+    <g id="icon">
+      <path d="M15.9845, 7.1728C15.9845, 5.0418 14.2593, 3.3143 12.1312, 3.3143C11.569, 3.3143 11.0354, 3.4359 10.5538, 3.6526C9.8825, 2.0664 8.3624, 0.9588 6.5933, 0.9588C4.4058, 0.9588 2.5985, 2.6519 2.3073, 4.85C0.971, 5.2562 0.0024, 6.4552 0.0024, 7.8714C0.0024, 10.6987 2.7539, 10.9721 4.5799, 10.9789C4.617, 10.9953 4.6565, 11 4.6983, 11L12.5053, 11C12.5496, 11 12.638, 10.9951 12.7481, 10.9757C14.7896, 10.9024 15.9845, 9.2558 15.9845, 7.1728z" fill="#1177D7" class="Blue" fill-rule="evenodd" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 16)">
+    <g id="icon">
+      <rect x="6" y="14" width="4" height="2" rx="0" ry="0" fill="#797979" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 16)">
+    <g id="icon">
+      <path d="M15, 16L10, 16L10, 14.5L15, 14.5L15, 16zM6, 14.5L1, 14.5L1, 16L6, 16L6, 14.5zM9, 11.5L7, 11.5L7, 14L9, 14L9, 11.5z" fill="#039C23" class="Green" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-0.0425 -2 32 31.9975" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.99, -0.9325)">
+    <g transform="matrix(0.9325, 0, 0, 0.9325, 0, 0)">
+      <g id="icon">
+        <path d="M28.3621, 1L19.511, 1C19.1014, 1 18.715, 1.0962 18.369, 1.2632C18.1675, 1.3022 17.975, 1.4 17.819, 1.5566L1.3713, 18.0632C0.9555, 18.4803 0.9555, 19.1567 1.3713, 19.5739L12.4771, 30.715C12.8929, 31.1322 13.5671, 31.1322 13.983, 30.715L30.4307, 14.2084C30.5525, 14.0862 30.6355, 13.9415 30.6859, 13.7878C30.8875, 13.4135 31.0001, 12.9851 31.0001, 12.5298L31.0001, 3.6505C31, 2.1867 29.8213, 1 28.3621, 1zM25.8647, 8.5004C24.5804, 8.5004 23.5392, 7.4608 23.5392, 6.1783C23.5392, 4.8958 24.5803, 3.8562 25.8647, 3.8562C27.1491, 3.8562 28.1902, 4.8958 28.1902, 6.1783C28.1902, 7.4608 27.149, 8.5004 25.8647, 8.5004z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(15.9575, 13.9975)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(15.9575, 13.9975)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(15.9575, 13.9975)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

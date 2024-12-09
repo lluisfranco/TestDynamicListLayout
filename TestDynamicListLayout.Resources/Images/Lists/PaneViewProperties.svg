@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -4)" style="enable-background:new 0 0 32 32">
+    <g id="DesktopWindows">
+      <path d="M28, 4L4, 4C2.9, 4 2, 4.9 2, 6L2, 20C2, 21.1 2.9, 22 4, 22L12, 22L12, 26L8, 26L8, 28L24, 28L24, 26L20, 26L20, 22L28, 22C29.1, 22 30, 21.1 30, 20L30, 6C30, 4.9 29.1, 4 28, 4zM28, 20L4, 20L4, 6L28, 6L28, 20z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 14)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 14)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 14)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="clip_mask" tag="staticElement_id5058598">
+    <path d="M17.456, 32L0, 32L0, 0L32, 0L32, 26.205C31.924, 26.111 31.842, 26.019 31.749, 25.931C31.146, 25.354 30.293, 25.011 28.721, 24.487L28.722, 24.486L28.112, 24.242C28.832, 23.004 29.239, 21.529 29.239, 20.337C29.239, 17.419 27.701, 16.001 24.536, 16.001C21.345, 16.001 19.858, 17.379 19.858, 20.337C19.858, 21.556 20.28, 23.047 20.961, 24.251L20.81, 24.319C18.888, 24.949 17.915, 25.297 17.251, 25.926C16.441, 26.693 16.312, 27.675 16.133, 29.035C16.102, 29.273 16.068, 29.533 16.028, 29.816C15.945, 30.355 16.106, 30.886 16.483, 31.314C16.666, 31.519 16.944, 31.763 17.456, 32z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+  </clipPath>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(-1, -1)">
+              <path d="M6, 21L6, 18.2444C6, 17.5572 6.5771, 17 7.2889, 17L24.7111, 17C25.4229, 17 26, 17.5572 26, 18.2444L26, 21" fill="none" stroke="#000000" stroke-width="2px" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(-1, -1)">
+              <rect x="15" y="13" width="2" height="8" rx="0" ry="0" fill="#727272" fill-opacity="1" class="Black" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(-1, -1)">
+              <path d="M9, 29.2L9, 22.8C9, 22.3582 8.6418, 22 8.2, 22L2.8, 22C2.3582, 22 2, 22.3582 2, 22.8L2, 29.2C2, 29.6418 2.3582, 30 2.8, 30L8.2, 30C8.6418, 30 9, 29.6418 9, 29.2zM30, 29.2L30, 22.8C30, 22.3582 29.6418, 22 29.2, 22L23.8, 22C23.3582, 22 23, 22.3582 23, 22.8L23, 29.2C23, 29.6418 23.3582, 30 23.8, 30L29.2, 30C29.6418, 30 30, 29.6418 30, 29.2zM20, 29.2L20, 22.8C20, 22.3582 19.6418, 22 19.2, 22L12.8, 22C12.3582, 22 12, 22.3582 12, 22.8L12, 29.2C12, 29.6418 12.3582, 30 12.8, 30L19.2, 30C19.6418, 30 20, 29.6418 20, 29.2z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#000000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="icon" clip-path="url(#clip_mask)">
+            <g id="transformed_icon" transform="translate(-1, -1)">
+              <path d="M24.2, 12L7.8, 12C7.3582, 12 7, 11.6418 7, 11.2L7, 2.8C7, 2.3582 7.3582, 2 7.8, 2L24.2, 2C24.6418, 2 25, 2.3582 25, 2.8L25, 11.2C25, 11.6418 24.6418, 12 24.2, 12z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="overlay">
+            <path d="M23.477, 26.848C23.504, 26.272 23.772, 26.384 24.524, 26.384C25.276, 26.384 25.556, 26.273 25.529, 26.847C25.536, 27.108 25.314, 27.217 25.041, 27.473C25.028, 28.369 25.5, 31.532 25.5, 31.532L24.51, 31.899L23.596, 31.511C23.596, 31.511 23.972, 28.38 24.002, 27.472C23.796, 27.202 23.477, 27.114 23.477, 26.848z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="overlay">
+            <path d="M24.46, 32C24.213, 32 18.403, 31.977 17.234, 30.651C17.05, 30.443 16.978, 30.211 17.018, 29.962C17.059, 29.673 17.094, 29.407 17.126, 29.164C17.475, 26.511 17.553, 26.435 21.308, 25.208C21.562, 25.095 21.72, 25.033 21.721, 25.032L21.882, 24.969C21.882, 24.969 23.844, 31.813 24.501, 31.813C25.158, 31.813 27.22, 25.005 27.22, 25.005L27.385, 25.072C27.459, 25.102 27.548, 25.141 27.657, 25.19C31.447, 26.429 31.526, 26.506 31.891, 29.237C31.921, 29.461 31.953, 29.703 31.991, 29.966C32.03, 30.21 31.958, 30.44 31.775, 30.647C30.601, 31.977 24.71, 32 24.46, 32L24.46, 32z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="main">
+          <g id="overlay">
+            <path d="M24.536, 17C21.538, 17 20.858, 18.289 20.858, 20.336C20.858, 22.383 22.333, 25.777 24.519, 25.777C26.706, 25.777 28.238, 22.383 28.238, 20.336C28.238, 18.289 27.5, 17 24.536, 17zM24.507, 24.85C22.829, 24.85 21.795, 22.24 21.795, 20.612C21.795, 20.563 21.796, 20.515 21.798, 20.468C23.15, 20.406 25.72, 20.113 26.561, 19.557C26.624, 19.814 26.931, 20.27 27.215, 20.465C27.217, 20.513 27.218, 20.562 27.218, 20.612C27.219, 22.24 26.186, 24.85 24.507, 24.85z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

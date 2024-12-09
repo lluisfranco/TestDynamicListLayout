@@ -1,0 +1,55 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -0.9036 32 31.9986" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <path d="M29.2, 29.5L1.8, 29.5C1.107, 29.5 0.5, 28.9 0.5, 28.2L0.5, 7.5L30.5, 7.5L30.5, 28.2C30.5, 28.9 29.893, 29.5 29.2, 29.5z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" stroke-opacity="1" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <path d="M29.66, 3L26, 3L26, 6L22, 6L22, 3L10, 3L10, 6L6, 6L6, 3L1.3, 3C0.583, 3 0, 3.583 0, 4.3L0, 8L31, 8L31, 4.3C31, 3.595 30.386, 3 29.66, 3z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <path d="M7, 1L9, 1L9, 5L7, 5L7, 1zM23, 1L23, 5L25, 5L25, 1L23, 1z" fill="#727272" fill-opacity="1" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <path d="M9, 10L9, 14L3, 14L3, 27L28, 27L28, 10L9, 10zM9, 26L4, 26L4, 23L9, 23L9, 26zM9, 22L4, 22L4, 19L9, 19L9, 22zM9, 18L4, 18L4, 15L9, 15L9, 18zM15, 26L10, 26L10, 23L15, 23L15, 26zM15, 22L10, 22L10, 19L15, 19L15, 22zM15, 18L10, 18L10, 15L15, 15L15, 18zM15, 14L10, 14L10, 11L15, 11L15, 14zM21, 26L16, 26L16, 23L21, 23L21, 26zM21, 22L16, 22L16, 19L21, 19L21, 22zM21, 18L16, 18L16, 15L21, 15L21, 18zM21, 14L16, 14L16, 11L21, 11L21, 14zM27, 26L22, 26L22, 23L27, 23L27, 26zM27, 22L22, 22L22, 19L27, 19L27, 22zM27, 18L22, 18L22, 15L27, 15L27, 18zM27, 14L22, 14L22, 11L27, 11L27, 14z" fill="#727272" fill-opacity="1" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <path d="M9, 14L9, 19L16, 19L16, 14L9, 14zM15, 18L10, 18L10, 15L15, 15L15, 18z" fill="#D11C1C" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.9032)">
+    <g transform="matrix(0.9032, 0, 0, 0.9032, 0, 0)">
+      <g id="icon">
+        <rect x="10" y="15" width="5" height="3" rx="0" ry="0" fill="#D11C1C" opacity="0.2" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 15.0964)">
+    <g id="icon">
+      <circle cx="8.008" cy="7.975" r="6.992" fill="#FFFFFF" fill-opacity="1" class="White" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 15.082)">
+    <g id="icon">
+      <path d="M8, 0C3.5817, 0 0, 3.1154 0, 6.9584C0, 9.0157 1.0265, 10.8645 2.6583, 12.1384C3.1921, 12.5551 1.6411, 15.6337 1.8994, 15.8929C2.1575, 16.152 6.4, 13.8097 6.9126, 13.853C7.2682, 13.895 7.6312, 13.9167 8, 13.9167C12.4183, 13.9167 16, 10.8013 16, 6.9583C16, 3.1153 12.4183, 0 8, 0zM3.88, 8.2906C3.1731, 8.2906 2.6, 7.7208 2.6, 7.0179C2.6, 6.315 3.1731, 5.7452 3.88, 5.7452C4.5869, 5.7452 5.16, 6.315 5.16, 7.0179C5.16, 7.7208 4.5869, 8.2906 3.88, 8.2906zM8, 8.2906C7.2931, 8.2906 6.72, 7.7208 6.72, 7.0179C6.72, 6.315 7.2931, 5.7452 8, 5.7452C8.7069, 5.7452 9.28, 6.315 9.28, 7.0179C9.28, 7.7208 8.7069, 8.2906 8, 8.2906zM12.12, 8.2906C11.4131, 8.2906 10.84, 7.7208 10.84, 7.0179C10.84, 6.315 11.4131, 5.7452 12.12, 5.7452C12.8269, 5.7452 13.4, 6.315 13.4, 7.0179C13.4, 7.7208 12.8269, 8.2906 12.12, 8.2906z" fill="#039C23" fill-opacity="1" class="Green" />
+    </g>
+  </g>
+</svg>

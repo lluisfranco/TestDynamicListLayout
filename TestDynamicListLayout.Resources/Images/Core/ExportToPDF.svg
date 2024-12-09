@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                <g transform="translate(0, 0)">
+                  <g transform="matrix(1.1426, 0, 0, 1.1426, 0, 0)">
+                    <g transform="translate(0, 0)">
+                      <g transform="matrix(0.0547, 0, 0, 0.0547, 0, 0)">
+                        <rect x="0" y="0" width="512" height="512" rx="0" ry="0" fill="#D11C1C" class="Red" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                <g transform="translate(0, 0)">
+                  <g transform="matrix(1.1426, 0, 0, 1.1426, 0, 0)">
+                    <g transform="translate(0, 0)">
+                      <g transform="matrix(0.0547, 0, 0, 0.0547, 0, 0)">
+                        <path d="M413, 302C404, 292 384, 287 357, 287C341, 287 324, 289 304, 292A252 252 0 0 1 252, 223C262, 193 269, 164 269, 142C269, 125 263, 98 239, 98C232, 98 226, 102 222, 108C212, 126 216, 166 235, 208A898 898 0 0 1 185, 325C132, 347 97, 371 94, 390C92, 399 98, 414 119, 414C150, 414 184, 369 210, 323A626 626 0 0 1 302, 299C340, 332 373, 337 389, 337C421, 337 424, 314 413, 302zM227, 111C235, 99 253, 103 253, 127C253, 143 248, 169 238, 199C220, 157 220, 124 227, 111zM100, 391C103, 375 133, 353 180, 334C154, 378 128, 406 112, 406C102, 406 99, 397 100, 391zM297, 293A574 574 0 0 0 214, 315A453 453 0 0 0 250, 231A327 327 0 0 0 297, 293zM310, 297C342, 292 369, 293 381, 295C410, 301 400, 336 368, 328C345, 323 326, 310 310, 297z" fill="#fff" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M17, 17L17, 31L31, 31L31, 17L17, 17zM28, 28L20, 28L20, 20L28, 20L28, 28z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="20" y="20" width="8" height="8" rx="0" ry="0" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M1, 17L1, 31L15, 31L15, 17L1, 17zM12, 28L4, 28L4, 20L12, 20L12, 28z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="4" y="20" width="8" height="8" rx="0" ry="0" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M17, 1L17, 15L31, 15L31, 1L17, 1zM28, 12L20, 12L20, 4L28, 4L28, 12z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="20" y="4" width="8" height="8" rx="0" ry="0" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(6, 6)" style="enable-background:new 0 0 16 16">
+    <g id="Delete_1_">
+      <path d="M10.8, 8L15.7, 3.1C16.1, 2.7 16.1, 2.1 15.7, 1.7L14.3, 0.3C13.9, -0.1 13.3, -0.1 12.9, 0.3L8, 5.2L3.1, 0.3C2.7, -0.1 2.1, -0.1 1.7, 0.3L0.3, 1.7C-0.1, 2.1 -0.1, 2.7 0.3, 3.1L5.2, 8L0.3, 12.9C-0.1, 13.3 -0.1, 13.9 0.3, 14.3L1.7, 15.7C2.1, 16.1 2.7, 16.1 3.1, 15.7L8, 10.8L12.9, 15.7C13.3, 16.1 13.9, 16.1 14.3, 15.7L15.7, 14.3C16.1, 13.9 16.1, 13.3 15.7, 12.9L10.8, 8z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+</svg>

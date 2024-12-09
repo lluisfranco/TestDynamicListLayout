@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.935 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M30, 29.5L2, 29.5C1.7239, 29.5 1.5, 29.2761 1.5, 29L1.5, 6.5L30.5, 6.5L30.5, 29C30.5, 29.2761 30.2761, 29.5 30, 29.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 7L1, 7L1, 3.4C1, 2.6268 1.6268, 2 2.4, 2L29.6, 2C30.3732, 2 31, 2.6268 31, 3.4L31, 7z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M4.5, 11.5L5.5, 11.5M7.5, 11.5L14.5, 11.5M4.5, 13.5L5.5, 13.5M7.5, 13.5L14.5, 13.5M4.5, 15.5L5.5, 15.5M7.5, 15.5L14.5, 15.5M4.5, 17.5L5.5, 17.5M7.5, 17.5L14.5, 17.5M4.5, 19.5L5.5, 19.5M7.5, 19.5L14.5, 19.5M4.5, 21.5L5.5, 21.5M7.5, 21.5L14.5, 21.5M17.5, 11.5L18.5, 11.5M20.5, 11.5L27.5, 11.5M17.5, 13.5L18.5, 13.5M20.5, 13.5L27.5, 13.5M17.5, 15.5L18.5, 15.5M20.5, 15.5L27.5, 15.5M17.5, 17.5L18.5, 17.5M20.5, 17.5L27.5, 17.5M17.5, 19.5L18.5, 19.5M20.5, 19.5L27.5, 19.5M17.5, 21.5L18.5, 21.5M20.5, 21.5L27.5, 21.5M4.5, 23.5L5.5, 23.5M7.5, 23.5L14.5, 23.5M4.5, 25.5L5.5, 25.5M7.5, 25.5L14.5, 25.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4.3334 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(1.1666, 0, 0, 1.1666, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="matrix(0.8572, 0, 0, 0.8572, 0, 0)">
+          <g transform="translate(0, 0)">
+            <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+              <g transform="translate(0, 0)">
+                <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+                  <g transform="translate(2.3334, -2.3334)">
+                    <g transform="matrix(1.1667, 0, 0, 1.1667, 0, 0)">
+                      <g id="Layer_1" transform="translate(-6, -4) rotate(90, 16, 16)" style="enable-background:new 0 0 32 32">
+                        <g id="Previous">
+                          <polygon points="26,4 26,28 6,16  " fill="#FFFFFF" class="White" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

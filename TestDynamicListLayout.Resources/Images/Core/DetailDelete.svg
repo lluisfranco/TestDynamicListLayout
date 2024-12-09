@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -3.93 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M1.5, 28L1.5, 5C1.5, 4.724 1.724, 4.5 2, 4.5L28.967, 4.5C29.262, 4.5 29.5, 4.739 29.5, 5.033L29.5, 27.966C29.5, 28.261 29.261, 28.499 28.967, 28.499L2, 28.499C1.724, 28.5 1.5, 28.276 1.5, 28z" fill="#FFFFFF" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M1.5, 16.5L1.5, 10.5L29.5, 10.5L29.5, 16.5L1.5, 16.5z" fill="#1177D7" class="Blue" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M30, 17L1, 17L1, 10L30, 10L30, 17zM2, 16L29, 16L29, 11L2, 11L2, 16z" fill="#1177D7" class="Blue" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M15, 10L15, 9L16, 9L16, 10L15, 10zM23, 10L23, 9L22, 9L22, 10L23, 10zM23, 17L22, 17L22, 18L23, 18L23, 17zM15, 17L15, 18L16, 18L16, 17L15, 17zM8, 10L8, 9L9, 9L9, 10L8, 10zM8, 17L8, 18L9, 18L9, 17L8, 17z" fill="#727272" opacity="0.4" class="Black" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M29, 10L29, 9L30, 9L30, 10L29, 10zM29, 17L29, 18L30, 18L30, 17L29, 17zM1, 10L1, 9L2, 9L2, 10L1, 10zM1, 17L1, 18L2, 18L2, 17L1, 17z" fill="#727272" class="Black" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M15, 9L15, 5L16, 5L16, 9L15, 9zM23, 9L23, 5L22, 5L22, 9L23, 9zM22, 28L23, 28L23, 23L29, 23L29, 22L23, 22L23, 18L22, 18L22, 22L16, 22L16, 18L15, 18L15, 22L9, 22L9, 18L8, 18L8, 22L2, 22L2, 23L8, 23L8, 28L9, 28L9, 23L15, 23L15, 28L16, 28L16, 23L22, 23L22, 28zM9, 9L9, 5L8, 5L8, 9L9, 9z" fill="#727272" class="Black" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0.001)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g transform="translate(0, 0.0002)">
+        <g transform="matrix(1.0357, 0, 0, 1.0357, 0, 0)">
+          <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+            <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+              <g id="icon">
+                <path d="M28.967, 29L2, 29C1.449, 29 1, 28.551 1, 28L1, 18L2, 18L2, 28.001L28.967, 28C28.985, 28 29, 27.985 29, 27.967L29, 18L30, 18L30, 27.967C30, 28.536 29.536, 29 28.967, 29zM2, 9L2, 5L28.967, 5C28.985, 5 29, 5.015 29, 5.033L29, 9L30, 9L30, 5.033C30, 4.463 29.536, 4 28.967, 4L2, 4C1.449, 4 1, 4.449 1, 5L1, 9L2, 9z" fill="#727272" class="Black" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 12.07)">
+    <g id="icon">
+      <path d="M8, 0C3.5817, 0 0, 3.5817 0, 8C0, 12.4183 3.5817, 16 8, 16C12.4183, 16 16, 12.4183 16, 8C16, 3.5817 12.4183, 0 8, 0zM13, 8.65C13, 8.8433 12.8433, 9 12.65, 9L3.35, 9C3.1567, 9 3, 8.8433 3, 8.65L3, 7.35C3, 7.1567 3.1567, 7 3.35, 7L12.65, 7C12.8433, 7 13, 7.1567 13, 7.35L13, 8.65z" fill="#D11C1C" class="Red" fill-rule="evenodd" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 12.07)">
+    <g id="icon">
+      <path d="M12.65, 9L3.35, 9C3.1567, 9 3, 8.8433 3, 8.65L3, 7.35C3, 7.1567 3.1567, 7 3.35, 7L12.65, 7C12.8433, 7 13, 7.1567 13, 7.35L13, 8.65C13, 8.8433 12.8433, 9 12.65, 9z" fill="#FFFFFF" class="White" fill-rule="evenodd" />
+    </g>
+  </g>
+</svg>

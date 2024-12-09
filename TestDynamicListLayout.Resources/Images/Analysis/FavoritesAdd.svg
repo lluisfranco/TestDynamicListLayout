@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2.0001 -2.6668 32.0001 32.0018" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(-0.0001, -0.0001)">
+    <g transform="matrix(1.1111, 0, 0, 1.1111, 0, 0)">
+      <g transform="translate(0.0001, 0.0001)">
+        <g transform="matrix(0.9, 0, 0, 0.9, 0, 0)">
+          <g transform="translate(0, 0)">
+            <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+              <g transform="translate(0, 0)">
+                <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                  <g transform="translate(0, 0)">
+                    <g transform="matrix(1.1111, 0, 0, 1.1111, 0, 0)">
+                      <g id="Layer_1" transform="translate(-3.4, -4)" style="enable-background:new 0 0 32 32">
+                        <g id="Rating_1_">
+                          <polygon points="16,4 19.9,11.9 28.6,13.2 22.3,19.3 23.8,28 16,23.9 8.2,28 9.7,19.3 3.4,13.2 12.1,11.9  " fill="#FFB115" class="Yellow" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(13.9999, 13.3332)" style="enable-background:new 0 0 16 16">
+    <g id="AddCircled">
+      <circle cx="9" cy="9" r="7" fill="#039C23" class="Green" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(13.9999, 13.3332)" style="enable-background:new 0 0 16 16">
+    <g id="AddCircled">
+      <polygon points="14,8 10,8 10,4 8,4 8,8 4,8 4,10 8,10 8,14 10,14 10,10 14,10  " fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

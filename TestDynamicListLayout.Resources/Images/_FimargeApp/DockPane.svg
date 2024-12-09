@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.935 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M30, 29.5L2, 29.5C1.7239, 29.5 1.5, 29.2761 1.5, 29L1.5, 7.5L30.5, 7.5L30.5, 29C30.5, 29.2761 30.2761, 29.5 30, 29.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="10" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 8L1, 8L1, 3.4C1, 2.6268 1.6268, 2 2.4, 2L29.6, 2C30.3732, 2 31, 2.6268 31, 3.4L31, 8z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <line x1="23.5" y1="8" x2="23.5" y2="29" fill="none" stroke="#000000" stroke-width="1px" stroke-miterlimit="10" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="24" y="8" width="6" height="21" rx="0" ry="0" fill="#E6E7E8" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M17.1229, 21.1985L19.277, 19L14.2708, 19C14.1219, 19 14, 18.8782 14, 18.7292L14, 18.2138L14, 17.7009L14, 17.2619C14, 17.1173 14.1173, 17 14.2619, 17L19.2681, 17L17.1323, 14.8009C17.0231, 14.6884 17.1028, 14.5 17.2595, 14.5L19.1841, 14.5C19.4629, 14.5 19.7297, 14.6111 19.9257, 14.8094C20.9759, 15.8719 22.4538, 17.3671 22.9406, 17.8598C23.0199, 17.94 23.0192, 18.0683 22.9392, 18.1478C22.4531, 18.6308 20.9759, 20.1259 19.926, 21.1899C19.7299, 21.3886 19.4629, 21.4999 19.1838, 21.4999L17.2495, 21.4999C17.0924, 21.5 17.0129, 21.3108 17.1229, 21.1985z" fill="#FFFFFF" class="White" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>

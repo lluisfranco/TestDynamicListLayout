@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.17 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.935, -0.9337)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <line x1="10.9" y1="12.5" x2="23.6" y2="12.5" fill="none" stroke="#039C23" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.935, -0.9337)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <polyline points="23.6,23.5 15.5,23.5 15.5,12.6" fill="none" stroke="#039C23" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.935, -0.9337)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M18.48, 7.692L7.708, 18.438C7.512, 18.633 7.195, 18.633 6.999, 18.438L1.147, 12.6C0.951, 12.405 0.951, 12.088 1.147, 11.893L11.919, 1.147C12.115, 0.952 12.432, 0.952 12.628, 1.147L18.48, 6.985C18.676, 7.18 18.676, 7.497 18.48, 7.692z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.935, -0.9337)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M30.854, 12.638L23.891, 19.616C23.696, 19.811 23.38, 19.811 23.185, 19.616L19.508, 15.932C19.313, 15.737 19.313, 15.42 19.508, 15.225L26.471, 8.247C26.666, 8.052 26.982, 8.052 27.177, 8.247L30.854, 11.931C31.049, 12.126 31.049, 12.443 30.854, 12.638z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.935, -0.9337)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M30.854, 23.508L23.891, 30.486C23.696, 30.681 23.38, 30.681 23.185, 30.486L19.508, 26.802C19.313, 26.607 19.313, 26.29 19.508, 26.095L26.471, 19.117C26.666, 18.922 26.982, 18.922 27.177, 19.117L30.854, 22.801C31.049, 22.996 31.049, 23.313 30.854, 23.508z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

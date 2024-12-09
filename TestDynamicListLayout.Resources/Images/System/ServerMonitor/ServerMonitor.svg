@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.4675 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -1.8674)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M30, 30.5L2, 30.5C1.724, 30.5 1.5, 30.276 1.5, 30L1.5, 7.5L30.5, 7.5L30.5, 30C30.5, 30.276 30.276, 30.5 30, 30.5z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" stroke-opacity="1" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8674)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M31, 8L1, 8L1, 3.4C1, 2.627 1.627, 2 2.4, 2L29.6, 2C30.373, 2 31, 2.627 31, 3.4L31, 8z" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8674)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <polyline points="5,19.3 9.092,19.3 11.183,14.834 13.444,26.34 18.196,11.84 21.368,22.774 23.118,19.3 27,19.3" fill="none" stroke="#4DAE89" stroke-width="1.4px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

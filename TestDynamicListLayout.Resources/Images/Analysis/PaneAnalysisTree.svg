@@ -1,0 +1,43 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <path d="M22.017, 10L2.983, 10C2.44, 10 2, 9.56 2, 9.017L2, 4.983C2, 4.44 2.44, 4 2.983, 4L22.016, 4C22.559, 4 22.999, 4.44 22.999, 4.983L22.999, 9.016C23, 9.56 22.56, 10 22.017, 10z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <path d="M29.017, 19L14.983, 19C14.44, 19 14, 18.56 14, 18.017L14, 14.984C14, 14.441 14.44, 14.001 14.983, 14.001L29.016, 14.001C29.559, 14.001 29.999, 14.441 29.999, 14.984L29.999, 18.017C30, 18.56 29.56, 19 29.017, 19z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <path d="M29.017, 28L14.983, 28C14.44, 28 14, 27.56 14, 27.017L14, 23.984C14, 23.441 14.44, 23.001 14.983, 23.001L29.016, 23.001C29.559, 23.001 29.999, 23.441 29.999, 23.984L29.999, 27.017C30, 27.56 29.56, 28 29.017, 28z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <polygon points="14,17 14,16 7,16 7,10 6,10 6,26 6.5,26 7,26 14,26 14,25 7,25 7,17" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <rect x="4.5" y="14.5" width="4" height="4" rx="0" ry="0" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -4)">
+    <g id="icon">
+      <rect x="4.5" y="23.5" width="4" height="4" rx="0" ry="0" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 12.1)">
+    <g id="icon">
+      <path d="M15, 15.5L1, 15.5C0.7239, 15.5 0.5, 15.2761 0.5, 15L0.5, 3.5L15.5, 3.5L15.5, 15C15.5, 15.2761 15.2761, 15.5 15, 15.5z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" stroke-opacity="1" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 12.1)">
+    <g id="icon">
+      <path d="M16, 5L0, 5L0, 2C0, 1.4477 0.4477, 1 1, 1L15, 1C15.5523, 1 16, 1.4477 16, 2L16, 5z" fill="#1177D7" fill-opacity="1" class="Blue" />
+    </g>
+  </g>
+</svg>

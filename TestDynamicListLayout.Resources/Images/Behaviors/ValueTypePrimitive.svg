@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-3.625 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="4.1,3 7,3 7,12.9" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="24.1,3 27,3 27,12.9" fill="none" stroke="#000000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <path d="M16.6, 13.0047L15.4, 13.0047C13.534, 13.0047 12.0213, 11.492 12.0213, 9.626L12.0213, 6.4386C12.0213, 4.5726 13.534, 3.0599 15.4, 3.0599L16.6, 3.0599C18.466, 3.0599 19.9787, 4.5726 19.9787, 6.4386L19.9787, 9.626C19.9787, 11.4921 18.466, 13.0047 16.6, 13.0047z" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="24.1,19 27,19 27,29" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="17.1,19 20,19 20,29" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <path d="M9.5266, 29.0558L8.4734, 29.0558C6.5551, 29.0558 5, 27.5008 5, 25.5825L5, 22.4844C5, 20.5661 6.5551, 19.011 8.4734, 19.011L9.5267, 19.011C11.445, 19.011 13.0001, 20.5661 13.0001, 22.4844L13.0001, 25.5825C13, 27.5008 11.4449, 29.0558 9.5266, 29.0558z" fill="none" stroke="#000000" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+</svg>

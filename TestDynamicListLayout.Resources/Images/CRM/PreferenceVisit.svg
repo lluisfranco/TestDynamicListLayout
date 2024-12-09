@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.0125 32 31.9975" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9276, -0.9326)">
+    <g transform="matrix(0.9326, 0, 0, 0.9326, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M30.5976, 9.5368L26.5625, 5.5276L22.4259, 1.4125C22.4259, 1.4125 21.1788, 0.4453 20.1632, 1.455C19.1476, 2.4647 20.2178, 4.5657 19.0414, 5.7352C17.3055, 7.4611 15.8004, 8.8671 14.6478, 10.0131C13.4083, 11.2454 10.4201, 9.6456 9.1975, 8.9041C8.8772, 8.7098 8.4653, 8.76 8.1999, 9.0238L6.559, 10.6552C6.2434, 10.969 6.2408, 11.477 6.5533, 11.7939L12.2935, 17.6162L12.2733, 17.636L13.286, 18.6228L14.2795, 19.6305L14.2997, 19.6107L20.1557, 25.3174C20.4745, 25.628 20.9854, 25.6255 21.301, 25.3117L22.9419, 23.6803C23.2072, 23.4165 23.2577, 23.007 23.0623, 22.6885C22.3166, 21.473 20.7074, 18.5021 21.9469, 17.2698C23.0995, 16.1239 24.5138, 14.6275 26.2497, 12.9017C27.4261, 11.7321 29.5393, 12.7961 30.5549, 11.7864C31.5704, 10.7766 30.5976, 9.5368 30.5976, 9.5368z" fill="#D11C1C" fill-opacity="1" class="Red" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9276, -0.9326)">
+    <g transform="matrix(0.9326, 0, 0, 0.9326, 0, 0)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)">
+        <g id="icon">
+          <path d="M11.2114, 17.8473L1.1172, 30.3877C0.7902, 30.794 1.1719, 31.1937 1.583, 30.8755L14.3545, 20.9904L11.2114, 17.8473z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Clock_1_">
+      <circle cx="8" cy="8" r="8" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Clock_1_">
+      <circle cx="8" cy="8" r="6" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Clock_1_">
+      <polygon points="8,8 8,4 6,4 6,8 6,10 8,10 12,10 12,8  " fill="#727272" class="Black" />
+    </g>
+  </g>
+</svg>

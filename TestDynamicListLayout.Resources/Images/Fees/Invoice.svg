@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-3.8666 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M27.7, 30.5L4.3, 30.5C3.8582, 30.5 3.5, 30.1418 3.5, 29.7L3.5, 2.3C3.5, 1.8582 3.8582, 1.5 4.3, 1.5L27.7, 1.5C28.1418, 1.5 28.5, 1.8582 28.5, 2.3L28.5, 29.7C28.5, 30.1418 28.1418, 30.5 27.7, 30.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="6.5" y="21.5" width="19" height="6" rx="0" ry="0" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M25.4875, 7L6.5125, 7C6.2295, 7 6, 6.7705 6, 6.4875L6, 5.5125C6, 5.2295 6.2295, 5 6.5125, 5L25.4875, 5C25.7705, 5 26, 5.2295 26, 5.5125L26, 6.4875C26, 6.7705 25.7705, 7 25.4875, 7z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M7.5, 9.5L17.5, 9.5M7.5, 11.5L14.4, 11.5M7.5, 15.5L14.4, 15.5M7.5, 13.5L17.5, 13.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M20.5, 9.5L24.5, 9.5M20.5, 13.5L24.5, 13.5M20.5, 11.5L24.5, 11.5M20.5, 15.5L24.5, 15.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2.7999, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <line x1="19.5" y1="18.5" x2="25" y2="18.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="1" />
+      </g>
+    </g>
+  </g>
+</svg>

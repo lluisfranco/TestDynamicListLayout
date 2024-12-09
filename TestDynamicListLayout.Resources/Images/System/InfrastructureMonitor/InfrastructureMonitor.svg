@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <polygon points="29,29 3,29 3,3 25,3 29,7" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <path d="M25, 30L30, 30L30, 27L32, 27L32, 25L30, 25L30, 23L32, 23L32, 21L30, 21L30, 19L32, 19L32, 17L30, 17L30, 15L32, 15L32, 13L30, 13L30, 11L32, 11L32, 9L30, 9L30, 6.588L25.45, 2L23, 2L23, 0L21, 0L21, 2L19, 2L19, 0L17, 0L17, 2L15, 2L15, 0L13, 0L13, 2L11, 2L11, 0L9, 0L9, 2L7, 2L7, 0L5, 0L5, 2L2, 2L2, 7L0, 7L0, 9L2, 9L2, 11L0, 11L0, 13L2, 13L2, 15L0, 15L0, 17L2, 17L2, 19L0, 19L0, 21L2, 21L2, 23L0, 23L0, 25L2, 25L2, 30L7, 30L7, 32L9, 32L9, 30L11, 30L11, 32L13, 32L13, 30L15, 30L15, 32L17, 32L17, 30L19, 30L19, 32L21, 32L21, 30L23, 30L23, 32L25, 32L25, 30zM4, 4L24.617, 4L28, 7.412L28, 28L4, 28L4, 4z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <circle cx="23.6" cy="8.5" r="1.9" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-4.7995 -2 31.9995 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-3.7332, -0.935)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M27, 30.5L5, 30.5C4.7239, 30.5 4.5, 30.2761 4.5, 30L4.5, 4.5L27.5, 4.5L27.5, 30C27.5, 30.2761 27.2761, 30.5 27, 30.5z" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.7332, -0.935)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M28, 5L4, 5L4, 2.4C4, 1.6268 4.6268, 1 5.4, 1L26.6, 1C27.3732, 1 28, 1.6268 28, 2.4L28, 5z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.7332, -0.935)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M8, 11.5L11, 11.5M8, 8.5L11, 8.5M8, 14.5L11, 14.5M8, 17.5L11, 17.5M8, 20.5L11, 20.5M8, 23.5L11, 23.5M8, 26.5L11, 26.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.7332, -0.935)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M13.5, 11.5L24, 11.5M13.5, 8.5L24, 8.5M13.5, 14.5L24, 14.5M13.5, 17.5L24, 17.5M13.5, 20.5L24, 20.5M13.5, 23.5L24, 23.5M13.5, 26.5L24, 26.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+</svg>

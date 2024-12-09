@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="translate(0, 0)">
+      <g id="Layer_1" transform="translate(-2, -4)">
+        <g id="icon">
+          <path d="M3, 11L3, 26.7C3, 27.3947 3.6841, 28 4.4382, 28L27.6138, 28C28.3678, 28 29, 27.3947 29, 26.7L29, 11L3, 11zM22, 18.0833C22, 19.1971 21.0971, 20 19.9833, 20L12.0167, 20C10.9029, 20 10, 19.1971 10, 18.0833L10, 18.0167C10, 16.9029 10.9029, 16 12.0167, 16L19.9833, 16C21.0971, 16 22, 16.9029 22, 18.0167L22, 18.0833z" fill="#FFB115" fill-opacity="1" class="Yellow" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, 0)">
+    <g transform="translate(0, 0)">
+      <g id="Layer_1" transform="translate(-2, -4)">
+        <g id="icon">
+          <path d="M30, 4.5125C30, 4.2295 29.7705, 4 29.4875, 4L2.5125, 4C2.2295, 4 2, 4.2295 2, 4.5125L2, 9.4875C2, 9.7705 2.2295, 10 2.5125, 10L29.4875, 10C29.7705, 10 30, 9.7705 30, 9.4875L30, 4.5125z" fill="#727272" fill-opacity="1" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

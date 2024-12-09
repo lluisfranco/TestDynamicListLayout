@@ -1,0 +1,10 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9301, -0.9301)">
+    <g transform="matrix(0.9331, 0, 0, 0.9331, 0, 0)">
+      <g id="icon">
+        <path d="M30.512, 14.812L17.188, 1.488C16.532, 0.832 15.469, 0.832 14.813, 1.488L1.488, 14.812C0.832, 15.468 0.832, 16.531 1.488, 17.187L14.813, 30.512C15.469, 31.168 16.532, 31.168 17.188, 30.512L30.513, 17.187C31.168, 16.532 31.168, 15.468 30.512, 14.812z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+</svg>

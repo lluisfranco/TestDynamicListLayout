@@ -1,0 +1,56 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-3.625 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="4.1,3 7,3 7,12.9" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="24.1,3 27,3 27,12.9" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <path d="M16.6, 13.0047L15.4, 13.0047C13.534, 13.0047 12.0213, 11.492 12.0213, 9.626L12.0213, 6.4386C12.0213, 4.5726 13.534, 3.0599 15.4, 3.0599L16.6, 3.0599C18.466, 3.0599 19.9787, 4.5726 19.9787, 6.4386L19.9787, 9.626C19.9787, 11.4921 18.466, 13.0047 16.6, 13.0047z" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="24.1,19 27,19 27,29" fill="none" stroke="Transparent" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <polyline points="17.1,19 20,19 20,29" fill="none" stroke="Transparent" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3.0837, -1.99)">
+    <g transform="matrix(0.9941, 0, 0, 0.9941, 0, 0)">
+      <g id="icon">
+        <path d="M9.5266, 29.0558L8.4734, 29.0558C6.5551, 29.0558 5, 27.5008 5, 25.5825L5, 22.4844C5, 20.5661 6.5551, 19.011 8.4734, 19.011L9.5267, 19.011C11.445, 19.011 13.0001, 20.5661 13.0001, 22.4844L13.0001, 25.5825C13, 27.5008 11.4449, 29.0558 9.5266, 29.0558z" fill="none" stroke="#377AB5" stroke-width="2px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(12.9, 14.5337)">
+    <g transform="matrix(0.5, 0, 0, 0.5, 0, 0)">
+      <g transform="matrix(0.9325, 0, 0, 0.9325, 0, 0)">
+        <g transform="matrix(1, 0, 0, 1, 0, 0)">
+          <g id="icon">
+            <path d="M28.3621, 1L19.511, 1C19.1014, 1 18.715, 1.0962 18.369, 1.2632C18.1675, 1.3022 17.975, 1.4 17.819, 1.5566L1.3713, 18.0632C0.9555, 18.4803 0.9555, 19.1567 1.3713, 19.5739L12.4771, 30.715C12.8929, 31.1322 13.5671, 31.1322 13.983, 30.715L30.4307, 14.2084C30.5525, 14.0862 30.6355, 13.9415 30.6859, 13.7878C30.8875, 13.4135 31.0001, 12.9851 31.0001, 12.5298L31.0001, 3.6505C31, 2.1867 29.8213, 1 28.3621, 1zM25.8647, 8.5004C24.5804, 8.5004 23.5392, 7.4608 23.5392, 6.1783C23.5392, 4.8958 24.5803, 3.8562 25.8647, 3.8562C27.1491, 3.8562 28.1902, 4.8958 28.1902, 6.1783C28.1902, 7.4608 27.149, 8.5004 25.8647, 8.5004z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

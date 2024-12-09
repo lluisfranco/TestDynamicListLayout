@@ -1,0 +1,102 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -1.5 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="clip_mask" tag="staticElement_id36549175">
+    <path d="M20.9262, 32C18.5189, 30.6 16.9, 27.9878 16.9, 25C16.9, 20.5265 20.5265, 16.9 25, 16.9C27.9878, 16.9 30.6, 18.5189 32, 20.9262L32, 0L0, 0L0, 32L20.9262, 32z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+  </clipPath>
+  <g transform="translate(0, -0.0001)">
+    <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+      <g transform="translate(0, -0.0001)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                <g id="Layer_1" transform="translate(0, -2.625)">
+                  <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                    <g id="main">
+                      <g id="icon" clip-path="url(#clip_mask)">
+                        <g id="transformed_icon" transform="translate(-1, -1)">
+                          <path d="M28.8, 29L3.2, 29C2.5373, 29 2, 28.4627 2, 27.8L1, 14.2C1, 13.5373 1.5373, 13 2.2, 13L29.8, 13C30.4627, 13 31, 13.5373 31, 14.2L30, 27.8C30, 28.4627 29.4627, 29 28.8, 29z" fill="#FFB115" fill-opacity="1" class="Yellow" fill-rule="evenodd" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0001)">
+    <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+      <g transform="translate(0, -0.0001)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                <g id="Layer_1" transform="translate(0, -2.625)">
+                  <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                    <g id="main">
+                      <g id="icon" clip-path="url(#clip_mask)">
+                        <g id="transformed_icon" transform="translate(-1, -1)">
+                          <path d="M29, 12L3, 12L3, 5.2C3, 4.5373 3.5373, 4 4.2, 4L13.1716, 4C13.702, 4 14.2107, 4.2107 14.5858, 4.5858L16.4142, 6.4142C16.7893, 6.7893 17.298, 7 17.8284, 7L27.8, 7C28.4627, 7 29, 7.5373 29, 8.2L29, 12z" fill="#FFB115" fill-opacity="1" class="Yellow" fill-rule="evenodd" />
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0001)">
+    <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+      <g transform="translate(0, -0.0001)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                <g id="Layer_1" transform="translate(0, -2.625)">
+                  <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                    <g id="main">
+                      <g id="overlay">
+                        <path d="M25, 18C21.134, 18 18, 21.134 18, 25C18, 28.866 21.134, 32 25, 32C28.866, 32 32, 28.866 32, 25C32, 21.134 28.866, 18 25, 18zM29, 29.1L23.3676, 29.1L21.4, 27L25.5629, 27.0238L20.9821, 22.4397L22.4029, 21.0255L27, 25.6096L27, 21.367L29, 23.4176L29, 29.1z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0001)">
+    <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+      <g transform="translate(0, -0.0001)">
+        <g transform="translate(0, 0)">
+          <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                <g id="Layer_1" transform="translate(0, -2.625)">
+                  <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                    <g id="main">
+                      <g id="overlay">
+                        <polygon points="29,23.4176 27,21.367 27,25.6096 22.4029,21.0256 20.9821,22.4398 25.5629,27.0238 21.4,27 23.3676,29.1 29,29.1" fill="#FFFFFF" fill-opacity="1" class="White" fill-rule="evenodd" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

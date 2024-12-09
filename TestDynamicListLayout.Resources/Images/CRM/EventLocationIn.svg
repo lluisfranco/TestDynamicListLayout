@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-3, -2)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="icon">
+        <rect x="5" y="4" width="18" height="24" rx="0" ry="0" fill="#FFFFFF" fill-opacity="1" class="White" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3, -2)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="icon">
+        <path d="M15.892, 10.098C15.939, 10.054 16.024, 10 16.088, 10L19.717, 10.001C19.819, 10.001 19.87, 10.124 19.798, 10.197L16.09, 14L30.8, 14C30.839, 13.999 31, 14.172 31, 14.197L31, 16.802L31, 17.406L31, 17.805C31, 17.913 30.913, 18 30.805, 18L16.11, 18L19.8, 21.805C19.872, 21.877 19.821, 22 19.719, 22L16.066, 22C16.001, 22 15.939, 21.975 15.892, 21.93C15.892, 21.93 10.744, 16.873 9.986, 16.146C9.907, 16.07 9.907, 15.939 9.987, 15.864C10.748, 15.148 15.892, 10.098 15.892, 10.098z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-3, -2)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="icon">
+        <path d="M23, 7L23, 2.883C23, 2.395 22.605, 2 22.117, 2L15, 2L11.1, 2L3.883, 2C3.395, 2 3, 2.395 3, 2.883L3, 29.116C3, 29.604 3.395, 29.999 3.883, 29.999L11.1, 29.999L15, 29.999L22.117, 29.999C22.605, 29.999 23, 29.604 23, 29.116L23, 25L21, 25L21, 28L15, 28L11.1, 28L5, 28L5, 4L11.1, 4L15, 4L21, 4L21, 7L23, 7z" fill="#727272" fill-opacity="1" class="Black" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>

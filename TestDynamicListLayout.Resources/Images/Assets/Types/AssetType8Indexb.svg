@@ -1,0 +1,80 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+          <g transform="translate(0, 0)">
+            <g transform="translate(0, 0)">
+              <g transform="matrix(0.8749, 0, 0, 0.8749, 0, 0)">
+                <g transform="translate(0, 0)">
+                  <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                    <g transform="translate(0, 0)">
+                      <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                        <g transform="translate(0, 0)">
+                          <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                            <g transform="translate(0, 0)">
+                              <g transform="translate(0, 0)">
+                                <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                                  <g transform="translate(0, 0)">
+                                    <g transform="matrix(0.7857, 0, 0, 0.7857, 0, 0)">
+                                      <g transform="translate(0, 0)">
+                                        <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                                          <g transform="translate(0, 0)">
+                                            <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+                                              <g transform="translate(0, 0)">
+                                                <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                                                  <g transform="translate(0, 0)">
+                                                    <g transform="matrix(0.6876, 0, 0, 0.6876, 0, 0)">
+                                                      <g transform="translate(0, 0)">
+                                                        <g transform="matrix(1.4545, 0, 0, 1.4545, 0, 0)">
+                                                          <g transform="translate(0, 0)">
+                                                            <g transform="matrix(0.7857, 0, 0, 0.7857, 0, 0)">
+                                                              <g id="Layer_1" transform="translate(-6.3637, -6.3637)">
+                                                                <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                                                                  <g id="icon">
+                                                                    <path d="M27, 5.5L27, 26.5C27, 26.776 26.776, 27 26.5, 27L5.5, 27C5.224, 27 5, 26.776 5, 26.5L5, 5.5C5, 5.224 5.224, 5 5.5, 5L26.5, 5C26.776, 5 27, 5.224 27, 5.5z" fill="#FFFFFF" class="White" />
+                                                                  </g>
+                                                                </g>
+                                                              </g>
+                                                            </g>
+                                                          </g>
+                                                        </g>
+                                                      </g>
+                                                    </g>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 6)">
+    <g id="icon">
+      <path d="M7, 0.218L7, 15.782C7, 15.902 7.103, 16 7.231, 16L8.769, 16C8.896, 16 9, 15.902 9, 15.782L9, 0.218C9, 0.098 8.897, 0 8.769, 0L7.231, 0C7.103, 0 7, 0.098 7, 0.218z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(10, 6)">
+    <g id="icon">
+      <path d="M2.169, 16L4.014, 16C4.089, 16 4.158, 15.962 4.198, 15.899L7.99, 9.903L11.782, 15.899C11.822, 15.962 11.891, 16 11.966, 16L13.811, 16C13.983, 16 14.087, 15.81 13.995, 15.665L9.17, 8.036L14.066, 0.335C14.158, 0.19 14.054, 0 13.882, 0L12.034, 0C11.959, 0 11.89, 0.038 11.85, 0.101L7.99, 6.17L4.13, 0.101C4.09, 0.038 4.02, 0 3.946, 0L2.098, 0C1.926, 0 1.822, 0.19 1.914, 0.335L6.81, 8.036L1.986, 15.665C1.893, 15.81 1.997, 16 2.169, 16z" fill="#727272" class="Black" />
+    </g>
+  </g>
+</svg>

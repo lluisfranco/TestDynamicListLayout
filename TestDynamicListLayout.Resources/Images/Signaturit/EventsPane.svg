@@ -1,0 +1,88 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <path d="M0.5, 27.2L0.5273, 27.46L0.6057, 27.7L0.89, 28.11L1.304, 28.4L1.545, 28.47L1.8, 28.5L16, 28.5L16, 23L16, 19L16.04, 18.6L16.16, 18.22L16.34, 17.88L16.59, 17.59L16.88, 17.34L17.22, 17.16L17.6, 17.04L18, 17L29.5, 17L29.5, 6.5L0.5, 6.5zz" fill="#FFFFFF" fill-rule="evenodd" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <path d="M0, 6.5L0, 27.2L0, 27.23L0.0027, 27.25L0.0303, 27.51L0.0357, 27.56L0.0518, 27.61L0.1301, 27.85L0.1523, 27.92L0.1936, 27.98L0.4779, 28.4L0.5311, 28.47L0.6082, 28.53L1.023, 28.81L1.082, 28.85L1.151, 28.87L1.392, 28.95L1.441, 28.96L1.492, 28.97L1.747, 29L1.773, 29L1.8, 29L16, 29L16, 28L1.827, 28L1.649, 27.98L1.526, 27.94L1.249, 27.75L1.059, 27.48L1.019, 27.35L1, 27.17L1, 7L29, 7L29, 17L30, 17L30, 6.5L30, 6L29.5, 6L0.5, 6L0, 6zz" fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <path d="M1.038, 2.026L0.7945, 2.102L0.3813, 2.381L0.1023, 2.795L0.0264, 3.038L0, 3.3L0, 7L30, 7L30, 3.3L29.97, 3.042L29.89, 2.8L29.6, 2.386L29.18, 2.104L28.93, 2.027L28.66, 2L25, 2L25, 5L21, 5L21, 2L10, 2L10, 5L6, 5L6, 2L1.3, 2zz" fill="#1177D7" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <g>
+            <path d="M7, 4L9, 4L9, 0L7, 0zz" fill="#727272" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <g>
+            <path d="M22, 4L24, 4L24, 0L22, 0zz" fill="#727272" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon">
+          <path d="M9, 13L3, 13L3, 26L16, 26L16, 25L16, 23L16, 22L16, 21L16, 19L16, 18L16.28, 18L16.34, 17.88L16.59, 17.59L16.88, 17.34L17.22, 17.16L17.6, 17.04L18, 17L16, 17L16, 14L20, 14L20, 17L21, 17L21, 14L26, 14L26, 17L27, 17L27, 9L9, 9zM15, 10L15, 13L10, 13L10, 10zM20, 10L20, 13L16, 13L16, 10zM26, 10L26, 13L21, 13L21, 10zM9, 14L9, 17L4, 17L4, 14zM15, 14L15, 17L10, 17L10, 14zM9, 18L9, 21L4, 21L4, 18zM15, 18L15, 21L10, 21L10, 18zM9, 22L9, 25L4, 25L4, 22zM15, 22L15, 25L10, 25L10, 22zz" fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="overlay">
+          <path d="M31, 31.5L18, 31.5C17.724, 31.5 17.5, 31.276 17.5, 31L17.5, 20.5L31.5, 20.5L31.5, 31C31.5, 31.276 31.276, 31.5 31, 31.5z" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="overlay">
+          <path d="M31, 32L18, 32C17.449, 32 17, 31.551 17, 31L17, 20L32, 20L32, 31C32, 31.551 31.551, 32 31, 32zM18, 21L18, 31L31.001, 31L31, 21L18, 21z" fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="overlay">
+          <path d="M32, 22L17, 22L17, 19C17, 18.448 17.448, 18 18, 18L31, 18C31.552, 18 32, 18.448 32, 19L32, 22z" fill="#1177D7" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

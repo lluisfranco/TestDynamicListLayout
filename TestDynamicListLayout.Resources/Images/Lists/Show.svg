@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -4.335 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -3.735)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M28.8, 29L3.2, 29C2.5373, 29 2, 28.4627 2, 27.8L1, 14.2C1, 13.5373 1.5373, 13 2.2, 13L29.8, 13C30.4627, 13 31, 13.5373 31, 14.2L30, 27.8C30, 28.4627 29.4627, 29 28.8, 29z" fill="#FFB115" class="Yellow" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -3.735)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M29, 12L3, 12L3, 5.2C3, 4.5373 3.5373, 4 4.2, 4L13.1716, 4C13.702, 4 14.2107, 4.2107 14.5858, 4.5858L16.4142, 6.4142C16.7893, 6.7893 17.298, 7 17.8284, 7L27.8, 7C28.4627, 7 29, 7.5373 29, 8.2L29, 12z" fill="#FFB115" class="Yellow" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>

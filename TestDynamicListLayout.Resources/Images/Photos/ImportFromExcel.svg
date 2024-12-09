@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -3.4 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient x1="4.725px" y1="14.725px" x2="23.055px" y2="33.055px" gradientunits="userspaceonuse" spreadmethod="pad" id="flEJnwg7q~uKUdkX0KCyBa" tag="staticElement_id1737001311">
+    <stop offset="0%" stop-color="#18884f" />
+    <stop offset="100%" stop-color="#0b6731" />
+  </linearGradient>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <rect x="28" y="15" width="16" height="9" rx="0" ry="0" fill="#21a366" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M44, 24L12, 24L12, 40C12, 41.105 12.895, 42 14, 42L42, 42C43.105, 42 44, 41.105 44, 40L44, 24z" fill="#185c37" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <rect x="28" y="24" width="16" height="9" rx="0" ry="0" fill="#107c42" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <rect x="12" y="15" width="16" height="9" rx="0" ry="0" fill="#3fa071" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M42, 6L28, 6L28, 15L44, 15L44, 8C44, 6.895 43.105, 6 42, 6z" fill="#33c481" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M14, 6L28, 6L28, 15L12, 15L12, 8C12, 6.895 12.895, 6 14, 6z" fill="#21a366" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M22.319, 13L12, 13L12, 37L22.319, 37C24.352, 37 26, 35.352 26, 33.319L26, 16.681C26, 14.648 24.352, 13 22.319, 13z" opacity="0.05" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M22.213, 36L12, 36L12, 13.333L22.213, 13.333C23.937, 13.333 25.334, 14.73 25.334, 16.454L25.334, 32.879C25.333, 34.603 23.936, 36 22.213, 36z" opacity="0.07" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M22.106, 35L12, 35L12, 13.667L22.106, 13.667C23.52, 13.667 24.666, 14.813 24.666, 16.227L24.666, 32.44C24.667, 33.854 23.52, 35 22.106, 35z" opacity="0.09" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M22, 34L6, 34C4.895, 34 4, 33.105 4, 32L4, 16C4, 14.895 4.895, 14 6, 14L22, 14C23.105, 14 24, 14.895 24, 16L24, 32C24, 33.105 23.105, 34 22, 34z" fill="#039C23" class="Green" />
+    </g>
+  </g>
+  <g transform="translate(-2.8, -4.2)">
+    <g transform="matrix(0.7, 0, 0, 0.7, 0, 0)">
+      <path d="M9.807, 19L12.193, 19L14.129, 22.754L16.175, 19L18.404, 19L15.333, 24L18.474, 29L16.123, 29L14.013, 25.07L11.912, 29L9.526, 29L12.719, 23.982L9.807, 19z" fill="#fff" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 14.6) rotate(90, 8, 8)" style="enable-background:new 0 0 16 16">
+    <g id="Next_2_">
+      <polygon points="2,0 2,16 14,8  " fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+</svg>

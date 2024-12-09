@@ -1,0 +1,68 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-0.0725 -4.0002 32 31.9977" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, -0.0002)">
+    <g transform="matrix(1.1402, 0, 0, 1.1402, 0, 0)">
+      <g id="Layer_1" transform="translate(-0.0636, -3.508)">
+        <g transform="matrix(0.877, 0, 0, 0.877, 0, 0)">
+          <g id="main">
+            <g id="icon">
+              <path d="M29.1, 18.01L29.8, 18.49L29.79, 18.31L29.61, 18.08L29.34, 18L29.08, 18zM4.731, 22.07L4.583, 22.16L0.2221, 26.14L0.0725, 26.39L0.09, 26.68L0.2658, 26.91L0.54, 27L17.16, 27L16.97, 26.1L16.9, 25L16.94, 24.17L17.06, 23.37L17.26, 22.59L17.46, 22.06L4.901, 22.03zz" fill="#D11C1C" class="Red" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0002)">
+    <g transform="matrix(1.1402, 0, 0, 1.1402, 0, 0)">
+      <g id="Layer_1" transform="translate(-0.0636, -3.508)">
+        <g transform="matrix(0.877, 0, 0, 0.877, 0, 0)">
+          <g id="main">
+            <g id="icon">
+              <path d="M26.42, 11.03L26.28, 11.12L21.9, 15.07L4.741, 15.1L4.574, 15.13L4.429, 15.22L0.251, 19.15L0.1016, 19.39L0.118, 19.68L0.2918, 19.91L0.5641, 20L0.5641, 20L18.63, 20L18.75, 19.85L19.27, 19.27L19.85, 18.75L20.47, 18.28L21.14, 17.88L21.85, 17.54L22.59, 17.26L23.37, 17.06L24.17, 16.94L24.34, 16.93L29.64, 11.85L29.78, 11.6L29.76, 11.31L29.58, 11.09L29.32, 11L26.59, 11zz" fill="#FFB115" class="Yellow" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0002)">
+    <g transform="matrix(1.1402, 0, 0, 1.1402, 0, 0)">
+      <g id="Layer_1" transform="translate(-0.0636, -3.508)">
+        <g transform="matrix(0.877, 0, 0, 0.877, 0, 0)">
+          <g id="main">
+            <g id="icon">
+              <path d="M9.009, 4.03L8.864, 4.117L0.2551, 12.14L0.102, 12.39L0.117, 12.68L0.2914, 12.91L0.565, 13L20.78, 13L20.94, 12.97L21.09, 12.88L29.78, 4.862L29.93, 4.614L29.92, 4.321L29.74, 4.087L29.47, 4L9.174, 4zz" fill="#039C23" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0002)">
+    <g transform="matrix(1.1402, 0, 0, 1.1402, 0, 0)">
+      <g id="Layer_1" transform="translate(-0.0636, -3.508)">
+        <g transform="matrix(0.877, 0, 0, 0.877, 0, 0)">
+          <g id="main">
+            <g id="overlay">
+              <path d="M25, 18C21.134, 18 18, 21.134 18, 25C18, 28.866 21.134, 32 25, 32C28.866, 32 32, 28.866 32, 25C32, 21.134 28.866, 18 25, 18zM28.5, 24.5L25.5, 27.5L28.5, 27.5L28.5, 29L21.5, 29L21.5, 27.5L24.5135, 27.5C23.5523, 26.5115 21.5, 24.4 21.5, 24.4L21.5, 22.2L24, 24.7L24, 20L26, 20L26, 24.7L28.5, 22.2L28.5, 24.5z" fill="#039C23" class="Green" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0002)">
+    <g transform="matrix(1.1402, 0, 0, 1.1402, 0, 0)">
+      <g id="Layer_1" transform="translate(-0.0636, -3.508)">
+        <g transform="matrix(0.877, 0, 0, 0.877, 0, 0)">
+          <g id="main">
+            <g id="overlay">
+              <path d="M28.5, 22.2L26, 24.7L26, 20L24, 20L24, 24.7L21.5, 22.2L21.5, 24.4C21.5, 24.4 23.5523, 26.5115 24.5135, 27.5L21.5, 27.5L21.5, 29L28.5, 29L28.5, 27.5L25.5, 27.5L28.5, 24.5L28.5, 22.2z" fill="#FFFFFF" fill-rule="evenodd" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

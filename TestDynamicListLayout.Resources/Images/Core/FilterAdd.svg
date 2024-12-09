@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-4.3333 -2 32.0008 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(1.1667, 0, 0, 1.1667, 0, 0)">
+      <g id="Layer_1" transform="translate(-6, -4)" style="enable-background:new 0 0 32 32">
+        <g id="Filter">
+          <polygon points="6,4 26,4 26,8 18,16 18,24 14,28 14,16 6,8  " fill="#727272" class="Black" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(11.6667, 14)">
+    <g id="icon">
+      <polygon points="13.1,6.9 9.1,6.9 9.1,2.9 6.9,2.9 6.9,6.9 2.9,6.9 2.9,9.1 6.9,9.1 6.9,13.1 9.1,13.1 9.1,9.1 13.1,9.1" fill="#FFFFFF" fill-opacity="1" class="White" fill-rule="evenodd" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(11.6667, 14)">
+    <g id="icon">
+      <path d="M8, 0C3.5817, 0 0, 3.5817 0, 8C0, 12.4183 3.5817, 16 8, 16C12.4183, 16 16, 12.4183 16, 8C16, 3.5817 12.4183, 0 8, 0zM13, 8.5917C13, 8.8172 12.8172, 9 12.5917, 9L9, 9L9, 12.5917C9, 12.8172 8.8172, 13 8.5917, 13L7.4083, 13C7.1828, 13 7, 12.8172 7, 12.5917L7, 9L3.4083, 9C3.1828, 9 3, 8.8172 3, 8.5917L3, 7.4083C3, 7.1828 3.1828, 7 3.4083, 7L7, 7L7, 3.4083C7, 3.1828 7.1828, 3 7.4083, 3L8.5916, 3C8.8172, 3 9, 3.1828 9, 3.4083L9, 7L12.5917, 7C12.8172, 7 13, 7.1828 13, 7.4083L13, 8.5917z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+    </g>
+  </g>
+</svg>

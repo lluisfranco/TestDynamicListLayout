@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -6 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+    <g id="Coupon">
+      <path d="M29, 6L3, 6C2.4, 6 2, 6.5 2, 7L2, 25C2, 25.5 2.4, 26 3, 26L29, 26C29.6, 26 30, 25.5 30, 25L30, 7C30, 6.5 29.6, 6 29, 6zM10, 24L8, 24L8, 20L10, 20L10, 24zM10, 18L8, 18L8, 14L10, 14L10, 18zM10, 12L8, 12L8, 8L10, 8L10, 12z" fill="#039C23" class="Green" />
+    </g>
+  </g>
+</svg>

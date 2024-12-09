@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.4725 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -0.945)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="3" y="17.5" width="26" height="10.5" rx="0" ry="0" fill="#FFFFFF" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.945)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M29.2, 17L16.337, 17L15.337, 18L29, 18L29, 28L3, 28L3, 18L7.779, 18L8.305, 17L2.8, 17C2.358, 17 2, 17.358 2, 17.8L2, 28.2C2, 28.642 2.358, 29 2.8, 29L29.2, 29C29.642, 29 30, 28.642 30, 28.2L30, 17.8C30, 17.358 29.642, 17 29.2, 17z" fill="#727272" class="Black" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.945)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M10.479, 15.624L22.841, 3.262L25.751, 6.172L13.389, 18.534L10.479, 15.624zM24.728, 1.375C25.211, 0.892 25.703, 0.892 26.186, 1.375L27.638, 2.827C28.121, 3.31 28.121, 3.802 27.638, 4.285L26.44, 5.483L23.509, 2.577L24.728, 1.375zM7.038, 21.557L9.803, 16.3L12.713, 19.21L7.455, 21.975C7.371, 22.019 7.269, 22.003 7.202, 21.937L7.075, 21.81C7.009, 21.743 6.994, 21.641 7.038, 21.557z" fill="#1177D7" class="Blue" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.945)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M4, 19L1, 19L1, 16L4, 16L4, 19zM4, 27L1, 27L1, 30L4, 30L4, 27zM31, 27L28, 27L28, 30L31, 30L31, 27zM31, 16L28, 16L28, 19L31, 19L31, 16z" fill="#727272" class="Black" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.945)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M7, 22.9C13.8, 30.2 18.1, 15.8 27, 23.9" fill="none" stroke="#377AB5" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" />
+      </g>
+    </g>
+  </g>
+</svg>

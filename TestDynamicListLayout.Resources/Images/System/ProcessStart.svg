@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-4.3333 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(1.1667, 0, 0, 1.1667, 0, 0)">
+      <g id="Layer_1" transform="translate(-6, -4)" style="enable-background:new 0 0 32 32">
+        <g id="Next">
+          <polygon points="6,4 6,28 26,16  " fill="#039C23" class="Green" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

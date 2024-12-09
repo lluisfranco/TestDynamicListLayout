@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -3.9325 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g id="icon">
+        <path d="M29, 28.5L2, 28.5C1.7239, 28.5 1.5, 28.2761 1.5, 28L1.5, 8.5L29.5, 8.5L29.5, 28C29.5, 28.2761 29.2761, 28.5 29, 28.5z" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g id="icon">
+        <path d="M29, 29L2, 29C1.4486, 29 1, 28.5514 1, 28L1, 8L30, 8L30, 28C30, 28.5514 29.5514, 29 29, 29zM2, 9L2, 28L29.0007, 28L29, 9L2, 9z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g id="icon">
+        <path d="M30, 9L1, 9L1, 5.4C1, 4.6268 1.6268, 4 2.4, 4L28.6, 4C29.3732, 4 30, 4.6268 30, 5.4L30, 9z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9655, -3.8636)">
+    <g transform="matrix(0.9655, 0, 0, 0.9655, 0, 0)">
+      <g id="icon">
+        <path d="M23, 28L22, 28L22, 24L16, 24L16, 28L15, 28L15, 24L9, 24L9, 28L8, 28L8, 24L2, 24L2, 23L8, 23L8, 19L2, 19L2, 18L8, 18L8, 14L2, 14L2, 13L8, 13L8, 9L9, 9L9, 13L15, 13L15, 9L16, 9L16, 13L22, 13L22, 9L23, 9L23, 13L29, 13L29, 14L23, 14L23, 18L29, 18L29, 19L23, 19L23, 23L29, 23L29, 24L23, 24L23, 28zM16, 23L22, 23L22, 19L16, 19L16, 23zM9, 23L15, 23L15, 19L9, 19L9, 23zM16, 18L22, 18L22, 14L16, 14L16, 18zM9, 18L15, 18L15, 14L9, 14L9, 18z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+</svg>

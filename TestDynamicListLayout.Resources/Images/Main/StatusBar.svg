@@ -1,0 +1,38 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.935 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M30, 29.5L2, 29.5C1.7239, 29.5 1.5, 29.2761 1.5, 29L1.5, 7.5L30.5, 7.5L30.5, 29C30.5, 29.2761 30.2761, 29.5 30, 29.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="10" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 8L1, 8L1, 3.4C1, 2.6268 1.6268, 2 2.4, 2L29.6, 2C30.3732, 2 31, 2.6268 31, 3.4L31, 8z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <line x1="2" y1="22.5" x2="30" y2="22.5" fill="none" stroke="#000000" stroke-width="1px" stroke-miterlimit="10" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="2" y="23" width="28" height="6" rx="0" ry="0" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M19.1985, 16.1229L17, 18.277L17, 13.2708C17, 13.1219 16.8782, 13 16.7292, 13L16.2138, 13L15.7009, 13L15.2619, 13C15.1173, 13 15, 13.1173 15, 13.2619L15, 18.2681L12.8009, 16.1323C12.6884, 16.0231 12.5, 16.1028 12.5, 16.2595L12.5, 18.1841C12.5, 18.4629 12.6111, 18.7297 12.8094, 18.9257C13.8719, 19.9759 15.3671, 21.4538 15.8598, 21.9406C15.94, 22.0199 16.0683, 22.0192 16.1478, 21.9392C16.6308, 21.4531 18.1259, 19.9759 19.1899, 18.926C19.3886, 18.7299 19.4999, 18.4629 19.4999, 18.1838L19.4999, 16.2495C19.5, 16.0924 19.3108, 16.0129 19.1985, 16.1229z" fill="#727272" class="Black" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+</svg>

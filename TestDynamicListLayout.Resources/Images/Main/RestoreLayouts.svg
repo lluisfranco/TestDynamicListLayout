@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.935 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="4" y="5" width="24" height="17" rx="0" ry="0" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -1.8683)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M29.363, 2L2.638, 2C1.737, 2 1, 2.737 1, 3.638L1, 23.363C1, 24.264 1.737, 25.001 2.638, 25.001L13, 25.001L13, 28.001L8.4, 28.001C8.165, 28.001 8, 28.191 8, 28.426L8, 29.576C8, 29.811 8.165, 30.001 8.4, 30.001L23.6, 30.001C23.835, 30.001 24, 29.811 24, 29.576L24, 28.426C24, 28.191 23.835, 28.001 23.6, 28.001L19, 28.001L19, 25.001L29.363, 25.001C30.264, 25.001 31.001, 24.264 31.001, 23.363L31.001, 3.638C31, 2.737 30.263, 2 29.363, 2zM28, 22L4, 22L4, 5L28, 5L28, 22z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 5.065)" style="enable-background:new 0 0 16 16">
+    <g id="Undo">
+      <path d="M6, 4L6, 0L0, 6L6, 12L6, 8C10.8, 8 14.9, 11.4 15.8, 16C15.9, 15.4 16, 14.7 16, 14C16, 8.5 11.5, 4 6, 4z" fill="#D11C1C" class="Red" />
+    </g>
+  </g>
+</svg>

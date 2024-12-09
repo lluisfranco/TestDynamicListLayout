@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -3)">
+    <g id="icon">
+      <path d="M29.4, 9L22.6, 9C22.269, 9 22, 9.269 22, 9.6L22, 30.4C22, 30.731 22.269, 31 22.6, 31L29.4, 31C29.731, 31 30, 30.731 30, 30.4L30, 9.6C30, 9.269 29.731, 9 29.4, 9z" fill="#D11C1C" fill-opacity="1" class="Red" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -3)">
+    <g id="icon">
+      <path d="M9.4, 16L2.6, 16C2.269, 16 2, 16.269 2, 16.6L2, 30.4C2, 30.731 2.269, 31 2.6, 31L9.4, 31C9.731, 31 10, 30.731 10, 30.4L10, 16.6C10, 16.269 9.731, 16 9.4, 16z" fill="#1177D7" fill-opacity="1" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, -3)">
+    <g id="icon">
+      <path d="M19.4, 3L12.6, 3C12.269, 3 12, 3.269 12, 3.6L12, 30.4C12, 30.731 12.269, 31 12.6, 31L19.4, 31C19.731, 31 20, 30.731 20, 30.4L20, 3.6C20, 3.269 19.731, 3 19.4, 3z" fill="#FFB115" fill-opacity="1" class="Yellow" />
+    </g>
+  </g>
+</svg>

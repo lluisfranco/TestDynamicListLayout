@@ -1,0 +1,65 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, 0)">
+    <g transform="matrix(0.8749, 0, 0, 0.8749, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+          <g transform="translate(0, 0)">
+            <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+              <g transform="translate(0, 0)">
+                <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+                  <g transform="translate(0, 0)">
+                    <g transform="translate(0, 0)">
+                      <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                        <g transform="translate(0, 0)">
+                          <g transform="matrix(0.7857, 0, 0, 0.7857, 0, 0)">
+                            <g transform="translate(0, 0)">
+                              <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+                                <g transform="translate(0, 0)">
+                                  <g transform="matrix(1.1428, 0, 0, 1.1428, 0, 0)">
+                                    <g transform="translate(0, 0)">
+                                      <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                                        <g transform="translate(0, 0)">
+                                          <g transform="matrix(0.6876, 0, 0, 0.6876, 0, 0)">
+                                            <g transform="translate(0, 0)">
+                                              <g transform="matrix(1.4545, 0, 0, 1.4545, 0, 0)">
+                                                <g transform="translate(0, 0)">
+                                                  <g transform="matrix(0.7857, 0, 0, 0.7857, 0, 0)">
+                                                    <g id="Layer_1" transform="translate(-6.3637, -6.3637)">
+                                                      <g transform="matrix(1.2727, 0, 0, 1.2727, 0, 0)">
+                                                        <g id="icon">
+                                                          <path d="M27, 5.5L27, 26.5C27, 26.776 26.776, 27 26.5, 27L5.5, 27C5.224, 27 5, 26.776 5, 26.5L5, 5.5C5, 5.224 5.224, 5 5.5, 5L26.5, 5C26.776, 5 27, 5.224 27, 5.5z" fill="#FFB115" class="Yellow" />
+                                                        </g>
+                                                      </g>
+                                                    </g>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(6, 6)">
+    <g id="icon">
+      <path d="M2, 15.781L2, 0.219C2, 0.098 2.098, 0 2.219, 0L7.708, 0C8.793, 0 9.804, 0.182 10.713, 0.54C11.64, 0.905 12.448, 1.446 13.116, 2.148C13.779, 2.844 14.299, 3.699 14.662, 4.691C15.019, 5.665 15.2, 6.778 15.2, 8C15.2, 9.222 15.019, 10.335 14.662, 11.309C14.299, 12.301 13.779, 13.156 13.116, 13.852C12.448, 14.554 11.639, 15.095 10.713, 15.46C9.804, 15.818 8.793, 16 7.708, 16L2.219, 16C2.098, 16 2, 15.902 2, 15.781zM7.708, 14.159C8.56, 14.159 9.343, 14.021 10.035, 13.748C10.71, 13.482 11.296, 13.091 11.778, 12.585C12.266, 12.073 12.653, 11.432 12.929, 10.678C13.211, 9.907 13.355, 9.006 13.355, 8C13.355, 6.994 13.212, 6.093 12.929, 5.322C12.653, 4.569 12.266, 3.927 11.778, 3.415C11.296, 2.909 10.71, 2.518 10.035, 2.251C9.343, 1.978 8.56, 1.84 7.708, 1.84L3.845, 1.84L3.845, 14.159L7.708, 14.159z" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

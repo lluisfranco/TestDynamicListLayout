@@ -1,0 +1,59 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M8, 15.995C8.001, 14.144 8.633, 12.441 9.69, 11.086L4.165, 6.783C2.184, 9.324 1.002, 12.519 1, 15.99L8, 15.995z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M10.347, 10.34C11.574, 9.115 13.198, 8.288 15.008, 8.064L14.139, 1.115C10.744, 1.535 7.701, 3.089 5.4, 5.387L10.347, 10.34z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M6.786, 27.837C9.329, 29.819 12.526, 31 16, 31L16, 24C14.148, 24 12.444, 23.369 11.088, 22.312L6.786, 27.837z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M16, 1L16, 8C17.852, 8 19.555, 8.631 20.91, 9.687L25.209, 4.16C22.667, 2.18 19.472, 1 16, 1z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M10.334, 21.648C9.11, 20.421 8.285, 18.797 8.062, 16.987L1.113, 17.851C1.531, 21.247 3.084, 24.292 5.381, 26.594L10.334, 21.648z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 16.01L24, 16.006C23.999, 17.856 23.368, 19.557 22.313, 20.911L27.84, 25.21C29.818, 22.67 30.998, 19.477 31, 16.01z" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M16.992, 23.937L17.861, 30.886C21.259, 30.466 24.305, 28.909 26.607, 26.607L21.657, 21.657C20.429, 22.884 18.804, 23.712 16.992, 23.937z" fill="#039C23" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M21.657, 10.343C22.886, 11.572 23.714, 13.199 23.937, 15.013L30.886, 14.149C30.467, 10.747 28.91, 7.697 26.606, 5.394L21.657, 10.343z" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+</svg>

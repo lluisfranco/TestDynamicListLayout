@@ -1,0 +1,82 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -4.5725 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(0, -0.0011)">
+    <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+            <g id="PersonalID">
+              <rect x="18" y="16" width="8" height="2" rx="0" ry="0" fill="Transparent" class="Transparent" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0011)">
+    <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+            <g id="PersonalID">
+              <rect x="18" y="12" width="8" height="2" rx="0" ry="0" fill="Transparent" class="Transparent" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0011)">
+    <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+            <g id="PersonalID">
+              <circle cx="11" cy="13" r="3" fill="Transparent" class="Transparent" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0011)">
+    <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+            <g id="PersonalID">
+              <path d="M29, 6L3, 6C2.4, 6 2, 6.5 2, 7L2, 25C2, 25.5 2.4, 26 3, 26L29, 26C29.6, 26 30, 25.5 30, 25L30, 7C30, 6.5 29.6, 6 29, 6zM28, 24L4, 24L4, 8L28, 8L28, 24z" fill="#727272" class="Black" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(0, -0.0011)">
+    <g transform="matrix(1.1429, 0, 0, 1.1429, 0, 0)">
+      <g transform="translate(0, 0)">
+        <g transform="translate(0, 0)">
+          <g id="Layer_1" transform="translate(-2, -6)" style="enable-background:new 0 0 32 32">
+            <g id="PersonalID">
+              <path d="M14.2, 16.8C13.3, 17.5 12.2, 18 11, 18C9.8, 18 8.7, 17.5 7.8, 16.8C6, 18.5 6, 22 6, 22L16, 22C16, 22 16, 18.5 14.2, 16.8z" fill="Transparent" class="Transparent" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(8, 3.4275)">
+    <g id="icon">
+      <g>
+        <path d="M12.692, 2.486C12.411, 1.952 12.031, 1.491 11.565, 1.118C11.112, 0.755 10.586, 0.474 10.003, 0.283C9.432, 0.095 8.838, 0 8.238, 0C7.726, 0 7.243, 0.056 6.802, 0.168C6.369, 0.277 5.962, 0.428 5.592, 0.615C5.23, 0.799 4.895, 1.011 4.597, 1.244C4.304, 1.474 3.727, 2.023 3.513, 2.241L3.513, 2.241C3.429, 2.326 3.43, 2.464 3.516, 2.547L4.554, 3.557C4.64, 3.641 4.778, 3.639 4.862, 3.554L4.862, 3.554C5.044, 3.369 5.563, 2.878 5.766, 2.718C5.968, 2.56 6.198, 2.415 6.45, 2.287C6.695, 2.163 6.969, 2.062 7.265, 1.987C7.554, 1.914 7.881, 1.877 8.237, 1.877C8.636, 1.877 9.031, 1.94 9.411, 2.065C9.778, 2.186 10.104, 2.359 10.38, 2.58C10.647, 2.794 10.856, 3.048 11.019, 3.358C11.171, 3.646 11.245, 3.975 11.245, 4.363C11.245, 4.829 11.171, 5.229 11.025, 5.551C10.865, 5.905 10.664, 6.216 10.428, 6.474C10.169, 6.758 9.883, 7.013 9.58, 7.23C9.204, 7.5 8.874, 7.742 8.57, 7.971C8.219, 8.235 7.914, 8.51 7.664, 8.787C7.302, 9.19 7.111, 9.653 7.096, 10.171L7.096, 12.108C7.096, 12.228 7.194, 12.325 7.314, 12.325L8.766, 12.325C8.886, 12.325 8.984, 12.228 8.984, 12.108L8.984, 10.207C8.985, 10.176 8.991, 10.127 9.071, 10.038C9.24, 9.851 9.454, 9.659 9.709, 9.467C9.998, 9.249 10.327, 9.008 10.686, 8.75C11.095, 8.456 11.479, 8.114 11.827, 7.734C12.197, 7.329 12.507, 6.853 12.748, 6.319C13.004, 5.753 13.134, 5.094 13.134, 4.361C13.133, 3.673 12.985, 3.042 12.692, 2.486z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(8, 3.4275)">
+    <g id="icon">
+      <g>
+        <path d="M8.04, 13.601C7.387, 13.601 6.856, 14.132 6.856, 14.785C6.856, 15.438 7.387, 15.969 8.04, 15.969C8.693, 15.969 9.224, 15.438 9.224, 14.785C9.223, 14.132 8.692, 13.601 8.04, 13.601z" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+</svg>

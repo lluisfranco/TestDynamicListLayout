@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-2, -2)" style="enable-background:new 0 0 32 32">
+    <g id="Info">
+      <path d="M16, 2C8.3, 2 2, 8.3 2, 16C2, 23.7 8.3, 30 16, 30C23.7, 30 30, 23.7 30, 16C30, 8.3 23.7, 2 16, 2zM16, 6C17.1, 6 18, 6.9 18, 8C18, 9.1 17.1, 10 16, 10C14.9, 10 14, 9.1 14, 8C14, 6.9 14.9, 6 16, 6zM20, 24L12, 24L12, 22L14, 22L14, 14L12, 14L12, 12L14, 12L18, 12L18, 22L20, 22L20, 24z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 16)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 16)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 16)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

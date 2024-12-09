@@ -1,0 +1,68 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2.875 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <clipPath id="clip_mask" tag="staticElement_id31678442">
+    <path d="M17.271, 32L0, 32L0, 0L32, 0L32, 17.271C31.705, 17.1 31.364, 17 31, 17L19, 17C17.897, 17 17, 17.897 17, 19L17, 21C17, 21.597 17.263, 22.133 17.678, 22.5C17.262, 22.867 17, 23.403 17, 24L17, 26C17, 26.597 17.263, 27.133 17.678, 27.5C17.262, 27.867 17, 28.403 17, 29L17, 31C17, 31.364 17.1, 31.705 17.271, 32z" />
+  </clipPath>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon" clip-path="url(#clip_mask)">
+          <g id="transformed_icon" transform="translate(-1, -1)">
+            <path d="M26.6, 30.5L4.4, 30.5C3.7649, 30.5 3.5, 30.2406 3.5, 29.6L3.5, 2.4C3.5, 1.7593 3.7649, 1.5 4.4, 1.5C4.4, 1.5 21.0709, 1.5 21.3083, 1.5C21.5458, 1.5 21.8578, 1.5496 22.2081, 1.8998C22.5073, 2.199 25.6164, 5.3164 27.1, 6.8C27.3527, 7.0527 27.5, 7.35 27.5, 7.8C27.5, 8.1125 27.5, 29.6 27.5, 29.6C27.5, 30.2406 27.2351, 30.5 26.6, 30.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon" clip-path="url(#clip_mask)">
+          <g id="transformed_icon" transform="translate(-1, -1)">
+            <path d="M21.5, 1.5L21.5, 6.7C21.5, 7.1418 21.8582, 7.5 22.3, 7.5L27.5, 7.5" fill="#FFFFFF" class="White" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon" clip-path="url(#clip_mask)">
+          <g id="transformed_icon" transform="translate(-1, -1)">
+            <path d="M6, 10L6, 27L25, 27L25, 10L6, 10zM12, 26L7, 26L7, 23L12, 23L12, 26zM12, 22L7, 22L7, 19L12, 19L12, 22zM12, 18L7, 18L7, 15L12, 15L12, 18zM12, 14L7, 14L7, 11L12, 11L12, 14zM18, 26L13, 26L13, 23L18, 23L18, 26zM18, 22L13, 22L13, 19L18, 19L18, 22zM18, 18L13, 18L13, 15L18, 15L18, 18zM18, 14L13, 14L13, 11L18, 11L18, 14zM24, 26L19, 26L19, 23L24, 23L24, 26zM24, 22L19, 22L19, 19L24, 19L24, 22zM24, 18L19, 18L19, 15L24, 15L24, 18zM24, 14L19, 14L19, 11L24, 11L24, 14z" fill="#727272" class="Black" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="icon" clip-path="url(#clip_mask)">
+          <g id="transformed_icon" transform="translate(-1, -1)">
+            <path d="M7, 11L12, 11L12, 14L7, 14L7, 11zM7, 18L12, 18L12, 15L7, 15L7, 18zM7, 22L12, 22L12, 19L7, 19L7, 22zM7, 26L12, 26L12, 23L7, 23L7, 26zM13, 14L18, 14L18, 11L13, 11L13, 14zM19, 11L19, 14L24, 14L24, 11L19, 11z" fill="#FFFFFF" class="White" fill-rule="evenodd" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="overlay">
+          <path d="M32, 24C32, 23.448 31.552, 23 31, 23L19, 23C18.448, 23 18, 23.448 18, 24L18, 26C18, 26.552 18.448, 27 19, 27L31, 27C31.552, 27 32, 26.552 32, 26L32, 24zM22, 26L20, 26L20, 24L22, 24L22, 26zM32, 29C32, 28.448 31.552, 28 31, 28L19, 28C18.448, 28 18, 28.448 18, 29L18, 31C18, 31.552 18.448, 32 19, 32L31, 32C31.552, 32 32, 31.552 32, 31L32, 29zM22, 31L20, 31L20, 29L22, 29L22, 31zM32, 19C32, 18.448 31.552, 18 31, 18L19, 18C18.448, 18 18, 18.448 18, 19L18, 21C18, 21.552 18.448, 22 19, 22L31, 22C31.552, 22 32, 21.552 32, 21L32, 19zM22, 21L20, 21L20, 19L22, 19L22, 21z" fill="#1177D7" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-1.75, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="main">
+        <g id="overlay">
+          <path d="M22, 21L20, 21L20, 19L22, 19L22, 21zM22, 24L20, 24L20, 26L22, 26L22, 24zM22, 29L20, 29L20, 31L22, 31L22, 29z" fill="#FFFFFF" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M13.8, 1L2.2, 1C1.54, 1 1, 1.54 1, 2.2L1, 13.8C1, 14.46 1.54, 15 2.2, 15L13.8, 15C14.46, 15 15, 14.46 15, 13.8L15, 2.2C15, 1.54 14.46, 1 13.8, 1zM13, 12.3167C13, 12.6941 12.6941, 13 12.3167, 13L3.6833, 13C3.3059, 13 3, 12.6941 3, 12.3167L3, 3.6833C3, 3.3059 3.3059, 3 3.6833, 3L12.3166, 3C12.694, 3 12.9999, 3.3059 12.9999, 3.6833L12.9999, 12.3167z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="3.5" y="3.5" width="9" height="9" rx="0" ry="0" fill="#1177D7" fill-opacity="1" class="Blue" stroke="#377AB5" stroke-width="1px" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M29.8, 1L18.2, 1C17.54, 1 17, 1.54 17, 2.2L17, 13.8C17, 14.46 17.54, 15 18.2, 15L29.8, 15C30.46, 15 31, 14.46 31, 13.8L31, 2.2C31, 1.54 30.46, 1 29.8, 1zM29, 12.3167C29, 12.6941 28.6941, 13 28.3167, 13L19.6834, 13C19.306, 13 19.0001, 12.6941 19.0001, 12.3167L19.0001, 3.6833C19.0001, 3.3059 19.306, 3 19.6834, 3L28.3167, 3C28.6941, 3 29, 3.3059 29, 3.6833L29, 12.3167z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="19.5" y="3.5" width="9" height="9" rx="0" ry="0" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#377AB5" stroke-width="1px" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M29.8, 17L18.2, 17C17.54, 17 17, 17.54 17, 18.2L17, 29.8C17, 30.46 17.54, 31 18.2, 31L29.8, 31C30.46, 31 31, 30.46 31, 29.8L31, 18.2C31, 17.54 30.46, 17 29.8, 17zM29, 28.3167C29, 28.6941 28.6941, 29 28.3167, 29L19.6834, 29C19.306, 29 19.0001, 28.6941 19.0001, 28.3167L19.0001, 19.6834C19.0001, 19.306 19.306, 19.0001 19.6834, 19.0001L28.3167, 19.0001C28.6941, 19.0001 29, 19.306 29, 19.6834L29, 28.3167z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="19.5" y="19.5" width="9" height="9" rx="0" ry="0" fill="#1177D7" fill-opacity="1" class="Blue" stroke="#377AB5" stroke-width="1px" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M13.8, 17L2.2, 17C1.54, 17 1, 17.54 1, 18.2L1, 29.8C1, 30.46 1.54, 31 2.2, 31L13.8, 31C14.46, 31 15, 30.46 15, 29.8L15, 18.2C15, 17.54 14.46, 17 13.8, 17zM13, 28.3167C13, 28.6941 12.6941, 29 12.3167, 29L3.6833, 29C3.3059, 29 3, 28.6941 3, 28.3167L3, 19.6834C3, 19.306 3.3059, 19.0001 3.6833, 19.0001L12.3166, 19.0001C12.694, 19.0001 12.9999, 19.306 12.9999, 19.6834L12.9999, 28.3167z" fill="#1177D7" fill-opacity="1" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9351, -0.9351)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="3.5" y="19.5" width="9" height="9" rx="0" ry="0" fill="#FFFFFF" fill-opacity="1" class="White" stroke="#377AB5" stroke-width="1px" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 14)" style="enable-background:new 0 0 16 16">
+    <g id="CheckCircled_2_">
+      <circle cx="8" cy="8" r="8" fill="#039C23" class="Green" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 14)" style="enable-background:new 0 0 16 16">
+    <g id="CheckCircled_2_">
+      <polygon points="11.5,4 6.5,9 4.5,7 3,8.5 6.5,12 13,5.5  " fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

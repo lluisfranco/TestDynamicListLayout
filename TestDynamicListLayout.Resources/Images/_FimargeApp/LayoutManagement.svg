@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M1, 9L1, 31L23, 31L23, 9L1, 9zM19, 27L5, 27L5, 13L19, 13L19, 27z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <rect x="5" y="13" width="14" height="14" rx="0" ry="0" fill="#FFFFFF" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <polygon points="5,5 5,7 25,7 25,27 27,27 27,7 27,5.5 27,5" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <polygon points="9,1 9,3 29,3 29,23 31,23 31,3 31,1.5 31,1" fill="#D11C1C" class="Red" />
+      </g>
+    </g>
+  </g>
+</svg>

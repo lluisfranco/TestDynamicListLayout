@@ -1,0 +1,49 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -3.2275 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(1.0075, -4.6862)">
+    <g transform="matrix(0.9368, 0, 0, 0.9368, 0, 0)">
+      <g id="icon">
+        <path d="M1.54, 28C1.338, 28 1.161, 27.875 1.09, 27.682C1.019, 27.488 1.07, 27.275 1.222, 27.138L5.583, 23.157C5.671, 23.078 5.784, 23.034 5.901, 23.034L22.899, 23.067L27.278, 19.119C27.365, 19.042 27.476, 19 27.591, 19L30.341, 19C30.539, 19 30.714, 19.122 30.787, 19.31C30.86, 19.498 30.814, 19.709 30.67, 19.848L22.251, 27.866C22.161, 27.952 22.045, 28 21.922, 28L1.54, 28z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(1.0075, -4.6862)">
+    <g transform="matrix(0.9368, 0, 0, 0.9368, 0, 0)">
+      <g id="icon">
+        <path d="M1.564, 21C1.363, 21 1.188, 20.876 1.118, 20.684C1.048, 20.492 1.1, 20.28 1.251, 20.146L5.429, 16.221C5.515, 16.144 5.626, 16.101 5.741, 16.101L22.899, 16.068L27.277, 12.121C27.364, 12.044 27.475, 12.002 27.59, 12.002L30.315, 12.002C30.512, 12.002 30.686, 12.123 30.758, 12.311C30.83, 12.499 30.784, 12.709 30.641, 12.846L22.274, 20.87C22.185, 20.955 22.069, 21.002 21.948, 21.002L1.564, 21.002z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(1.0075, -4.6862)">
+    <g transform="matrix(0.9368, 0, 0, 0.9368, 0, 0)">
+      <g id="icon">
+        <path d="M1.565, 14C1.363, 14 1.187, 13.875 1.117, 13.68C1.047, 13.486 1.101, 13.274 1.255, 13.139L9.864, 5.117C9.95, 5.041 10.061, 5 10.174, 5L30.47, 5C30.673, 5 30.849, 5.126 30.919, 5.321C30.989, 5.516 30.934, 5.728 30.779, 5.862L22.087, 13.884C22.001, 13.959 21.891, 14 21.778, 14L1.565, 14z" fill="#1177D7" fill-opacity="1" class="Blue" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 12.7725)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 12.7725)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 12.7725)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, 12.7725)" style="enable-background:new 0 0 16 16">
+    <g id="AddCircled">
+      <circle cx="9" cy="9" r="7" fill="#039C23" class="Green" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-2, 12.7725)" style="enable-background:new 0 0 16 16">
+    <g id="AddCircled">
+      <polygon points="14,8 10,8 10,4 8,4 8,8 4,8 4,10 8,10 8,14 10,14 10,10 14,10  " fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

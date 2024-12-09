@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="0 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(1.0667, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M26.6, 30.5L5.4, 30.5C4.7649, 30.5 4.5, 30.2406 4.5, 29.6L4.5, 2.4C4.5, 1.7593 4.7649, 1.5 5.4, 1.5C5.4, 1.5 19.0626, 1.5 19.3, 1.5C19.5375, 1.5 19.8495, 1.5496 20.1997, 1.8998C20.499, 2.199 25.6164, 7.3164 27.1, 8.8C27.3527, 9.0527 27.5, 9.35 27.5, 9.8C27.5, 10.1125 27.5, 29.6 27.5, 29.6C27.5, 30.2406 27.2351, 30.5 26.6, 30.5z" fill="#FFFFFF" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(1.0667, -0.9333)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M19.5, 2L19.5, 8.7C19.5, 9.1418 19.8582, 9.5 20.3, 9.5L27.3, 9.5" fill="none" stroke="#000000" stroke-width="1px" stroke-miterlimit="1" fill-rule="evenodd" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 14)">
+    <g id="icon">
+      <polygon points="13.1,6.9 9.1,6.9 9.1,2.9 6.9,2.9 6.9,6.9 2.9,6.9 2.9,9.1 6.9,9.1 6.9,13.1 9.1,13.1 9.1,9.1 13.1,9.1" fill="#FFFFFF" fill-opacity="1" class="White" fill-rule="evenodd" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(16, 14)">
+    <g id="icon">
+      <path d="M8, 0C3.5817, 0 0, 3.5817 0, 8C0, 12.4183 3.5817, 16 8, 16C12.4183, 16 16, 12.4183 16, 8C16, 3.5817 12.4183, 0 8, 0zM13, 8.5917C13, 8.8172 12.8172, 9 12.5917, 9L9, 9L9, 12.5917C9, 12.8172 8.8172, 13 8.5917, 13L7.4083, 13C7.1828, 13 7, 12.8172 7, 12.5917L7, 9L3.4083, 9C3.1828, 9 3, 8.8172 3, 8.5917L3, 7.4083C3, 7.1828 3.1828, 7 3.4083, 7L7, 7L7, 3.4083C7, 3.1828 7.1828, 3 7.4083, 3L8.5916, 3C8.8172, 3 9, 3.1828 9, 3.4083L9, 7L12.5917, 7C12.8172, 7 13, 7.1828 13, 7.4083L13, 8.5917z" fill="#039C23" fill-opacity="1" class="Green" fill-rule="evenodd" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 8)" style="enable-background:new 0 0 16 16">
+    <g id="Image_2_">
+      <path d="M15, 16L1, 16C0.4, 16 0, 15.6 0, 15L0, 1C0, 0.4 0.4, 0 1, 0L15, 0C15.6, 0 16, 0.4 16, 1L16, 15C16, 15.6 15.6, 16 15, 16z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 8)" style="enable-background:new 0 0 16 16">
+    <g id="Image_2_">
+      <rect x="2" y="2" width="12" height="12" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 8)" style="enable-background:new 0 0 16 16">
+    <g id="Image_2_">
+      <polygon points="4,6 10,12 4,12  " fill="#039C23" class="Green" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 8)" style="enable-background:new 0 0 16 16">
+    <g id="Image_2_">
+      <circle cx="10" cy="6" r="2" fill="#FFB115" class="Yellow" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-1.9999 -4.7998 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9333, -3.7332)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M11, 8L1, 8L1, 4L11, 4L11, 8zM6, 9L1, 9L1, 13L6, 13L6, 9zM16, 9L7, 9L7, 13L16, 13L16, 9zM26, 9L17, 9L17, 13L26, 13L26, 9zM31, 9L27, 9L27, 13L31, 13L31, 9zM21, 4L12, 4L12, 8L21, 8L21, 4zM31, 4L22, 4L22, 8L31, 8L31, 4zM11, 14L1, 14L1, 18L11, 18L11, 14zM6, 19L1, 19L1, 23L6, 23L6, 19zM16, 19L7, 19L7, 23L16, 23L16, 19zM26, 19L17, 19L17, 23L26, 23L26, 19zM31, 19L27, 19L27, 23L31, 23L31, 19zM21, 14L12, 14L12, 18L21, 18L21, 14zM31, 14L22, 14L22, 18L31, 18L31, 14zM11, 24L1, 24L1, 28L11, 28L11, 24zM21, 24L12, 24L12, 28L21, 28L21, 24zM31, 24L22, 24L22, 28L31, 28L31, 24z" fill="#FFB115" fill-opacity="1" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9333, -3.7332)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 9L31, 8L22, 8L22, 4L21, 4L21, 8L12, 8L12, 4L11, 4L11, 8L1, 8L1, 9L6, 9L6, 13L1, 13L1, 14L11, 14L11, 18L1, 18L1, 19L6, 19L6, 23L1, 23L1, 24L11, 24L11, 27.9L12, 27.9L12, 24L21, 24L21, 27.9L22, 27.9L22, 24L31, 24L31, 23L27, 23L27, 19L31, 19L31, 18L22, 18L22, 14L31, 14L31, 13L27, 13L27, 9L31, 9zM7, 13L7, 9L16, 9L16, 13L7, 13zM21, 14L21, 18L12, 18L12, 14L21, 14zM16, 23L7, 23L7, 19L16, 19L16, 23zM26, 19L26, 23L17, 23L17, 19L26, 19zM26, 13L17, 13L17, 9L26, 9L26, 13z" fill="#FFFFFF" fill-opacity="1" class="White" />
+      </g>
+    </g>
+  </g>
+</svg>

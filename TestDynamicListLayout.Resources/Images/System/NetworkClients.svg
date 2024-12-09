@@ -1,0 +1,125 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M16.363, 13L2.638, 13C1.737, 13 1, 13.737 1, 14.638L1, 24.363C1, 25.264 1.737, 26.001 2.638, 26.001L16.363, 26.001C17.264, 26.001 18.001, 25.264 18.001, 24.363L18.001, 14.638C18, 13.737 17.263, 13 16.363, 13zM16, 24L3, 24L3, 15L16, 15L16, 24z" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <rect x="7" y="24.6" width="5" height="3" rx="0" ry="0" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <rect x="3" y="15" width="13" height="9" rx="0" ry="0" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M16.025, 28L2.975, 28C2.437, 28 2, 28.437 2, 28.975L2, 30.025C2, 30.563 2.437, 31 2.975, 31L16.025, 31C16.563, 31 17, 30.563 17, 30.025L17, 28.975C17, 28.437 16.563, 28 16.025, 28zM10.9, 30L4.2, 30C3.925, 30 3.7, 29.775 3.7, 29.5C3.7, 29.225 3.925, 29 4.2, 29L10.9, 29C11.175, 29 11.4, 29.225 11.4, 29.5C11.4, 29.775 11.175, 30 10.9, 30zM14.15, 30.2C13.57, 30.2 13.1, 29.909 13.1, 29.55C13.1, 29.191 13.57, 28.9 14.15, 28.9C14.73, 28.9 15.2, 29.191 15.2, 29.55C15.2, 30.074 14.73, 30.2 14.15, 30.2z" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M10.9, 30L4.2, 30C3.925, 30 3.7, 29.775 3.7, 29.5L3.7, 29.5C3.7, 29.225 3.925, 29 4.2, 29L10.9, 29C11.175, 29 11.4, 29.225 11.4, 29.5L11.4, 29.5C11.4, 29.775 11.175, 30 10.9, 30z" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M13.1, 29.55C13.1, 29.909 13.57, 30.2 14.15, 30.2C14.73, 30.2 15.2, 30.074 15.2, 29.55C15.2, 29.191 14.73, 28.9 14.15, 28.9C13.57, 28.9 13.1, 29.191 13.1, 29.55z" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M29.363, 1L15.638, 1C14.737, 1 14, 1.737 14, 2.638L14, 12L16, 12L16, 3L29, 3L29, 12L16.95, 12C18.065, 12 18.971, 12.891 18.997, 14L29.362, 14C30.263, 14 31, 13.263 31, 12.362L31, 2.638C31, 1.737 30.263, 1 29.363, 1z" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <rect x="20" y="12.6" width="5" height="3" rx="0" ry="0" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <polygon points="16,3 16,12 16.95,12 29,12 29,3" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M29.025, 16L19, 16L19, 17L23.9, 17C24.175, 17 24.4, 17.225 24.4, 17.5C24.4, 17.775 24.175, 18 23.9, 18L19, 18L19, 19L29.025, 19C29.563, 19 30, 18.563 30, 18.025L30, 16.975C30, 16.437 29.563, 16 29.025, 16zM27.15, 18.2C26.57, 18.2 26.1, 17.909 26.1, 17.55C26.1, 17.191 26.57, 16.9 27.15, 16.9C27.73, 16.9 28.2, 17.191 28.2, 17.55C28.2, 18.074 27.73, 18.2 27.15, 18.2z" fill="#1177D7" fill-opacity="1" class="Blue" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M23.9, 17L19, 17L19, 18L23.9, 18C24.175, 18 24.4, 17.775 24.4, 17.5C24.4, 17.225 24.175, 17 23.9, 17z" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <g>
+          <path d="M27.15, 16.9C26.57, 16.9 26.1, 17.191 26.1, 17.55C26.1, 17.909 26.57, 18.2 27.15, 18.2C27.73, 18.2 28.2, 18.074 28.2, 17.55C28.2, 17.191 27.73, 16.9 27.15, 16.9z" fill="#FFFFFF" fill-opacity="1" class="White" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <path d="M31, 30L26.5, 30L26.5, 28L31, 28L31, 30zM19.5, 28L17.5, 28L17.5, 30L19.5, 30L19.5, 28zM24, 19.5L22, 19.5L22, 26.5L24, 26.5L24, 19.5z" fill="#039C23" fill-opacity="1" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(-0.9349, -0.9349)">
+    <g transform="matrix(0.9333, 0, 0, 0.9333, 0, 0)">
+      <g id="icon">
+        <polygon points="24,27 24,27 22,27 22,27 20,27 20,31 26,31 26,27" fill="#727272" fill-opacity="1" class="Black" />
+      </g>
+    </g>
+  </g>
+</svg>

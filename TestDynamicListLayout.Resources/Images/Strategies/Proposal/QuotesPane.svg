@@ -1,0 +1,95 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2.015 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <polyline points="0.5,0.517 0.5,15.5 15.5,15.5" fill="none" stroke="#000000" stroke-width="1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <path d="M2.631, 12.333L9.907, 4.822L14.467, 10.528" fill="none" stroke="#D04D2F" stroke-width="1.1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <path d="M14.467, 2.517L9.856, 11.681L5.296, 4.246L2.539, 8.191" fill="none" stroke="#4DAE89" stroke-width="1.1px" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" stroke-opacity="1" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="14.45" cy="2.483" r="1.367" fill="#039C23" fill-opacity="1" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="9.85" cy="11.783" r="1.367" fill="#039C23" fill-opacity="1" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="5.25" cy="4.383" r="1.367" fill="#039C23" fill-opacity="1" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="2.65" cy="8.083" r="1.367" fill="#039C23" fill-opacity="1" class="Green" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="2.65" cy="12.083" r="1.367" fill="#D11C1C" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="5.65" cy="9.083" r="1.367" fill="#D11C1C" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="9.85" cy="4.983" r="1.367" fill="#D11C1C" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, -0.03)">
+    <g transform="matrix(1.75, 0, 0, 1.75, 0, 0)">
+      <g id="icon">
+        <circle cx="14.45" cy="10.583" r="1.367" fill="#D11C1C" fill-opacity="1" class="Red" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M16, 4L16, 1C16, 0.4 15.5, 0 15, 0L1, 0C0.5, 0 0, 0.4 0, 1L0, 4L16, 4z" fill="#1177D7" class="Blue" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <path d="M0, 4L0, 15C0, 15.6 0.5, 16 1, 16L15, 16C15.5, 16 16, 15.6 16, 15L16, 4L0, 4z" fill="#727272" class="Black" />
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(14, 13.985)" style="enable-background:new 0 0 16 16">
+    <g id="Window_1_">
+      <rect x="2" y="4" width="12" height="10" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    </g>
+  </g>
+</svg>

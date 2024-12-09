@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="-2 -2 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <path d="M4, 4L0, 4L0, 0L4, 0L4, 4zM24, 0L20, 0L20, 4L24, 4L24, 0zM4, 20L0, 20L0, 24L4, 24L4, 20z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <path d="M12, 12L8, 12L8, 8L12, 8L12, 12zM32, 8L28, 8L28, 12L32, 12L32, 8zM32, 28L28, 28L28, 32L32, 32L32, 28zM12, 28L8, 28L8, 32L12, 32L12, 28z" fill="#1177D7" class="Blue" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <polygon points="27,30 27,27 30,27 30,13 27,13 27,10 13,10 13,13 10,13 10,27 13,27 13,30" fill="#FFB115" class="Yellow" />
+      </g>
+    </g>
+  </g>
+  <g id="Layer_1" transform="translate(0, 0)">
+    <g transform="matrix(0.875, 0, 0, 0.875, 0, 0)">
+      <g id="icon">
+        <polygon points="9,22 9,13 7,13 7,7 13,7 13,9 22,9 22,5 19,5 19,2 5,2 5,5 2,5 2,19 5,19 5,22" fill="#727272" class="Black" />
+      </g>
+    </g>
+  </g>
+</svg>
