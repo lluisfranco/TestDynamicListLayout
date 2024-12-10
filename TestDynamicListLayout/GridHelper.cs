@@ -12,6 +12,8 @@ using DevExpress.XtraGrid.Columns;
 using DevExpress.XtraGrid.Views.Base;
 using DevExpress.XtraGrid.Views.Grid;
 using DevExpress.XtraReports.Design;
+using DevExpress.XtraRichEdit.Model;
+using System.Dynamic;
 using static DevExpress.Utils.Design.DXCollectionEditorBase;
 
 namespace TestDynamicListLayout
@@ -201,17 +203,14 @@ namespace TestDynamicListLayout
             return col;
         }
 
-        public static GridView CreateColumns(this GridView view, IList<AssetInfo> data,
+        public static GridView CreateColumns(this GridView view, IList<dynamic> data,
             GridColumnOptions options = null)
         {
             options = options ?? new GridColumnOptions();
             view.Columns.Clear();
             if (data.Count == 0) return null;
             var row = data.First() as IDictionary<string, object>;
-
-            var props = data.First().GetType().GetProperties().Select(p => p.Name); 
-
-            foreach (var key in props)
+            foreach (var key in row.Keys)
             {
                 var col = new GridColumn
                 {
@@ -259,7 +258,7 @@ namespace TestDynamicListLayout
             return behavior;
         }
 
-        public static GridView SetData(this GridView view, IList<AssetInfo> data, GridColumnOptions options = null)
+        public static GridView SetData(this GridView view, IList<dynamic> data, GridColumnOptions options = null)
         {
             if (options == null) options = new GridColumnOptions() { AutoCreateColumnsOnSetData = false };
             if (options.AutoCreateColumnsOnSetData) view.CreateColumns(data, options);

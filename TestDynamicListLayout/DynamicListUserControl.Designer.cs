@@ -28,71 +28,78 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.gridControlDynamic = new DevExpress.XtraGrid.GridControl();
-            this.GridViewDynamic = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.ToolTipController = new DevExpress.Utils.ToolTipController(this.components);
-            this.gridSplitContainer = new DevExpress.XtraGrid.GridSplitContainer();
-            ((System.ComponentModel.ISupportInitialize)(this.gridControlDynamic)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.GridViewDynamic)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer.Panel1)).BeginInit();
-            this.gridSplitContainer.Panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer.Panel2)).BeginInit();
-            this.gridSplitContainer.SuspendLayout();
-            this.SuspendLayout();
+            components = new System.ComponentModel.Container();
+            gridControlDynamic = new DevExpress.XtraGrid.GridControl();
+            GridViewDynamic = new DevExpress.XtraGrid.Views.Grid.GridView();
+            ToolTipController = new DevExpress.Utils.ToolTipController(components);
+            gridSplitContainer = new DevExpress.XtraGrid.GridSplitContainer();
+            repositoryItemTextEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
+            ((System.ComponentModel.ISupportInitialize)gridControlDynamic).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)GridViewDynamic).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer.Panel1).BeginInit();
+            gridSplitContainer.Panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer.Panel2).BeginInit();
+            gridSplitContainer.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)repositoryItemTextEdit1).BeginInit();
+            SuspendLayout();
             // 
             // gridControlDynamic
             // 
-            this.gridControlDynamic.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridControlDynamic.Location = new System.Drawing.Point(0, 0);
-            this.gridControlDynamic.MainView = this.GridViewDynamic;
-            this.gridControlDynamic.Name = "gridControlDynamic";
-            this.gridControlDynamic.Size = new System.Drawing.Size(828, 611);
-            this.gridControlDynamic.TabIndex = 3;
-            this.gridControlDynamic.ToolTipController = this.ToolTipController;
-            this.gridControlDynamic.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
-            this.GridViewDynamic});
+            gridControlDynamic.Dock = DockStyle.Fill;
+            gridControlDynamic.Location = new Point(0, 0);
+            gridControlDynamic.MainView = GridViewDynamic;
+            gridControlDynamic.Name = "gridControlDynamic";
+            gridControlDynamic.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] { repositoryItemTextEdit1 });
+            gridControlDynamic.Size = new Size(828, 611);
+            gridControlDynamic.TabIndex = 3;
+            gridControlDynamic.ToolTipController = ToolTipController;
+            gridControlDynamic.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] { GridViewDynamic });
             // 
             // GridViewDynamic
             // 
-            this.GridViewDynamic.GridControl = this.gridControlDynamic;
-            this.GridViewDynamic.Name = "GridViewDynamic";
-            this.GridViewDynamic.OptionsMenu.EnableGroupRowMenu = true;
-            this.GridViewDynamic.OptionsMenu.ShowConditionalFormattingItem = true;
-            this.GridViewDynamic.OptionsMenu.ShowFooterItem = true;
-            this.GridViewDynamic.OptionsMenu.ShowGroupSummaryEditorItem = true;
-            this.GridViewDynamic.OptionsView.ShowGroupPanel = false;
+            GridViewDynamic.GridControl = gridControlDynamic;
+            GridViewDynamic.Name = "GridViewDynamic";
+            GridViewDynamic.OptionsMenu.EnableGroupRowMenu = true;
+            GridViewDynamic.OptionsMenu.ShowConditionalFormattingItem = true;
+            GridViewDynamic.OptionsMenu.ShowFooterItem = true;
+            GridViewDynamic.OptionsMenu.ShowGroupSummaryEditorItem = true;
+            GridViewDynamic.OptionsView.ShowGroupPanel = false;
             // 
             // gridSplitContainer
             // 
-            this.gridSplitContainer.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.gridSplitContainer.Grid = this.gridControlDynamic;
-            this.gridSplitContainer.Location = new System.Drawing.Point(0, 0);
-            this.gridSplitContainer.Name = "gridSplitContainer";
+            gridSplitContainer.Dock = DockStyle.Fill;
+            gridSplitContainer.Grid = gridControlDynamic;
+            gridSplitContainer.Location = new Point(0, 0);
+            gridSplitContainer.Name = "gridSplitContainer";
             // 
-            // gridSplitContainer.gridSplitContainer_Panel1
+            // gridSplitContainer.Panel1
             // 
-            this.gridSplitContainer.Panel1.Controls.Add(this.gridControlDynamic);
-            this.gridSplitContainer.Size = new System.Drawing.Size(828, 611);
-            this.gridSplitContainer.TabIndex = 0;
+            gridSplitContainer.Panel1.Controls.Add(gridControlDynamic);
+            gridSplitContainer.Size = new Size(828, 611);
+            gridSplitContainer.TabIndex = 0;
+            // 
+            // repositoryItemTextEdit1
+            // 
+            repositoryItemTextEdit1.AutoHeight = false;
+            repositoryItemTextEdit1.Name = "repositoryItemTextEdit1";
             // 
             // DynamicListUserControl
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.gridSplitContainer);
-            this.Name = "DynamicListUserControl";
-            this.Size = new System.Drawing.Size(828, 611);
-            ((System.ComponentModel.ISupportInitialize)(this.gridControlDynamic)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.GridViewDynamic)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer.Panel1)).EndInit();
-            this.gridSplitContainer.Panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer.Panel2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridSplitContainer)).EndInit();
-            this.gridSplitContainer.ResumeLayout(false);
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new SizeF(6F, 13F);
+            AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(gridSplitContainer);
+            Name = "DynamicListUserControl";
+            Size = new Size(828, 611);
+            ((System.ComponentModel.ISupportInitialize)gridControlDynamic).EndInit();
+            ((System.ComponentModel.ISupportInitialize)GridViewDynamic).EndInit();
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer.Panel1).EndInit();
+            gridSplitContainer.Panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer.Panel2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)gridSplitContainer).EndInit();
+            gridSplitContainer.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)repositoryItemTextEdit1).EndInit();
+            ResumeLayout(false);
         }
 
         #endregion
@@ -101,5 +108,6 @@
         public DevExpress.XtraGrid.Views.Grid.GridView GridViewDynamic;
         private DevExpress.XtraGrid.GridSplitContainer gridSplitContainer;
         public DevExpress.Utils.ToolTipController ToolTipController;
+        private DevExpress.XtraEditors.Repository.RepositoryItemTextEdit repositoryItemTextEdit1;
     }
 }

@@ -1,14 +1,16 @@
 using DevExpress.Utils;
 using DevExpress.Utils.Serializing;
 using DevExpress.Utils.Svg;
-using DevExpress.XtraEditors;
+using DevExpress.XtraBars.Ribbon;
 using DevExpress.XtraGrid.Columns;
 using DevExpress.XtraGrid.Views.Grid;
 using System.IO;
+using System.Text.Json;
+using TestDynamicListLayout.Data;
 
 namespace TestDynamicListLayout
 {
-    public partial class Form1 : XtraForm
+    public partial class Form1 : RibbonForm
     {
         private GridView View => dynamicListUserControl.GridViewDynamic;
         private GridColumn GetViewColumn(string name) => View.GetColumn(name);
@@ -28,24 +30,30 @@ namespace TestDynamicListLayout
             Text = _FORM_CAPTION;
             IconOptions.SvgImage = _FORM_ICON_SVG_IMAGE;
             _ViewModel = new AssetDynamicListViewModel();
-            Load += (s, e) =>
+            barButtonItemRefresh.ItemClick += async (s, e) =>
             {
-
+                await RefreshData();
             };
-            button1.Click += (s, e) =>
+            barButtonItemRestoreDefaultLayout.ItemClick += (s, e) =>
             {
                 SetControlLayoutBytes(View, _DefaultLayout);
+            };
+            barButtonItemSaveToFile.ItemClick += (s, e) =>
+            {
+                SaveControlLayoutToFile(View);
+            };
+            barButtonItemLoadFromFile.ItemClick += (s, e) =>
+            {
+                LoadControlLayoutFromFile(View);
             };
         }
 
         public async Task RefreshData()
         {
-            _ViewModel.Clock.Restart();
             try
             {
-                //this.ShowProgressPanel();
                 View.GridControl.BeginUpdate();
-                await _ViewModel.GetData();
+                await _ViewModel.GetData("C:\\__\\");
                 if (!dynamicListUserControl.Initialized)
                 {
                     await dynamicListUserControl.Initialize();
@@ -53,15 +61,13 @@ namespace TestDynamicListLayout
                     CreateDefaultView();
                     View.SetViewDefautOptions();
 
-                    _DefaultLayout = GetControlLayoutBytes(View).ToArray();
-
+                    _DefaultLayout = [.. GetControlLayoutBytes(View)];
                 }
                 else
                 {
                     View.SetData(_ViewModel.Data);
                 }
                 View.GridControl.EndUpdate();
-                //this.CloseProgressPanel();
             }
             catch (Exception ex)
             {
@@ -73,9 +79,7 @@ namespace TestDynamicListLayout
         {
             var isactiveCombo = UIHelper.GetIsActiveComboBox();
             var isactiveManagementCombo = UIHelper.GetIsActiveManagementBooleanComboBox();
-            var isManagedCombo = UIHelper.GetAssetManagedBooleanComboBox();
-            GetViewColumn("AssetTypeId")?.SetVisible().SetFixedWidth(90).SetCaption("Asset Type").
-                SetHeaderImage("ObjectTypes.AssetTypes");
+            var isManagedCombo = UIHelper.GetAssetManagedBooleanComboBox();            
             GetViewColumn("IsItemActive")?.SetVisible().SetFixedWidth().SetCaption("Is Active").
                 SetHeaderImage("Core.IsActiveAll").SetImageCombo(isactiveCombo);
             GetViewColumn("BV_1")?.SetVisible().SetFixedWidth().SetCaption("Is Active Management").
@@ -91,10 +95,8 @@ namespace TestDynamicListLayout
             GetViewColumn("LastPrice")?.SetVisible().SetDisplayFormat(FormatType.Numeric, "n4");
             GetViewColumn("LastPriceDate")?.SetVisible();
             GetViewColumn("BV_106")?.SetVisible();
-            GetViewColumn("IsClass")?.SetBoolImageCombo();
             GetViewColumn("CreationDate").SetDisplayFormat(FormatType.DateTime, "g");
             GetViewColumn("ModifiedDate").SetDisplayFormat(FormatType.DateTime, "g");
-            GetViewColumn("CashTypeId")?.SetCaption("Cash Type");
             CreatePerformanceColumnsDefaultView();
             View.UseAdvancedCustomizationForm();
             View.BestFitColumns(true);
@@ -153,5 +155,35 @@ namespace TestDynamicListLayout
             }
         }
 
+        private void SaveControlLayoutToFile<T>(T control) where T : ISupportXtraSerializer
+        {
+            var fd = new OpenFileDialog() { Filter = "*.xml|*.xml" };
+            if (fd.ShowDialog() == DialogResult.OK)
+            {
+                var stream = new FileStream(fd.FileName, FileMode.Create);
+                control.SaveLayoutToStream(stream);
+                stream.Close();
+            }
+        }
+
+        private void LoadControlLayoutFromFile<T>(T control) where T : ISupportXtraSerializer
+        {
+            var fd = new OpenFileDialog() { Filter = "*.xml|*.xml" };
+            if (fd.ShowDialog() == DialogResult.OK)
+            {
+                var stream = new FileStream(fd.FileName, FileMode.Open);
+                control.RestoreLayoutFromStream(stream);
+                stream.Close();
+            }
+        }
+    }
+
+    public static class DbHelper
+    {
+        public static IEnumerable<AssetInfo> GetAssetDataFromFile()
+        {
+            var content = File.ReadAllText("Assets.json");
+            return JsonSerializer.Deserialize<List<AssetInfo>>(content) ?? [];
+        }
     }
 }
