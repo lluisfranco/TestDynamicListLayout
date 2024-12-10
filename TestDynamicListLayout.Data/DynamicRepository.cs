@@ -13,7 +13,7 @@ namespace TestDynamicListLayout.Data
             con.Open();
             using (con)
             {
-                var sql = @"SELECT TOP 2000 * FROM AssetData";
+                var sql = @"SELECT TOP 1000 * FROM AssetData ORDER BY 1 DESC";
                 var command = new CommandDefinition(sql);
                 var data = con.Query<dynamic>(command);
                 return data.ToList();

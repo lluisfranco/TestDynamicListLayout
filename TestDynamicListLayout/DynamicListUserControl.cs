@@ -21,7 +21,8 @@ namespace TestDynamicListLayout
             {
                 var ea = e as DXMouseEventArgs;
                 var view = s as GridView;
-                var info = view.CalcHitInfo(ea.Location);
+                var info = view?.CalcHitInfo(ea.Location);
+                if (info is null) return;
                 if (info.InRow || info.InRowCell) GridDoubleClick?.Invoke(s, e);
             };
             GridViewDynamic.MouseDown += (s, e) =>
@@ -30,7 +31,8 @@ namespace TestDynamicListLayout
                 {
                     var ea = e as DXMouseEventArgs;
                     var view = s as GridView;
-                    var info = view.CalcHitInfo(ea.Location);
+                    var info = view?.CalcHitInfo(ea.Location);
+                    if (info is null) return;
                     if (info.InRow || info.InRowCell) GridShowPopupMenu?.Invoke(s, e);
                 }
             };
@@ -38,7 +40,6 @@ namespace TestDynamicListLayout
 
         public async Task Initialize()
         {
-            
             Initialized = true;
         }
     }

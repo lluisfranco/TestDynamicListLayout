@@ -32,22 +32,6 @@ namespace TestDynamicListLayout
 
         public static GridView SetViewDefautOptions(this GridView view)
         {
-            //var addCustomPrintExportButtonsDefault = settings?.ShowNavigatorOnLists ?? true;
-            //var enableAppearanceHotTrackedRowDefault = settings?.EnableAppearanceHotTrackedRow ?? true;
-            //var gridViewFilterBehaviorDefault = settings?.DefaultGridViewFilterBehavior ?? FindPanelBehavior.Filter;
-            //var autoExpandGroupsOnRestoreLayoutGridViewsDefault = settings?.AutoExpandGroupsOnRestoreLayoutGridViews ?? true;
-            //var showConditionalFormattingMenuDefault = settings?.ShowConditionalFormattingMenu ?? true;
-            //var groupDrawModeDefault = settings?.GroupDrawMode ?? GroupDrawMode.Default;
-
-            //view.AddCustomPrintAndExportButtonsToGrid();
-            //view.OptionsView.FilterCriteriaDisplayStyle = FilterCriteriaDisplayStyle.Visual;
-            //view.OptionsSelection.EnableAppearanceHotTrackedRow =
-            //    enableAppearanceHotTrackedRowDefault ? DefaultBoolean.True : DefaultBoolean.False;
-            //view.OptionsFind.Behavior = gridViewFilterBehaviorDefault;
-            //view.OptionsBehavior.AutoExpandAllGroups = autoExpandGroupsOnRestoreLayoutGridViewsDefault;
-            //view.OptionsMenu.ShowConditionalFormattingItem = showConditionalFormattingMenuDefault;
-            //view.OptionsView.GroupDrawMode = groupDrawModeDefault;
-
             view.OptionsView.ShowGroupPanel = false;
             view.OptionsMenu.ShowFooterItem = true;
             view.OptionsMenu.ShowSplitItem = true;

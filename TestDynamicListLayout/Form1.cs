@@ -5,8 +5,6 @@ using DevExpress.XtraBars.Ribbon;
 using DevExpress.XtraGrid.Columns;
 using DevExpress.XtraGrid.Views.Grid;
 using System.IO;
-using System.Text.Json;
-using TestDynamicListLayout.Data;
 
 namespace TestDynamicListLayout
 {
@@ -30,6 +28,7 @@ namespace TestDynamicListLayout
             Text = _FORM_CAPTION;
             IconOptions.SvgImage = _FORM_ICON_SVG_IMAGE;
             _ViewModel = new AssetDynamicListViewModel();
+            View.AddCustomPrintAndExportButtonsToGrid();
             barButtonItemRefresh.ItemClick += async (s, e) =>
             {
                 await RefreshData();
@@ -60,7 +59,7 @@ namespace TestDynamicListLayout
                     View.SetData(_ViewModel.Data, dynamicListUserControl.DefaultGridColumnOptions);
                     CreateDefaultView();
                     View.SetViewDefautOptions();
-
+                    //
                     _DefaultLayout = [.. GetControlLayoutBytes(View)];
                 }
                 else
@@ -139,20 +138,12 @@ namespace TestDynamicListLayout
             return GetControlLayoutStream(control).ToArray();
         }
 
-
         private void SetControlLayoutBytes<T>(T control, byte[] userLayoutBytes) where T : ISupportXtraSerializer
         {
-            try
-            {
-                if (userLayoutBytes.Length == 0) return;
-                var stream = new MemoryStream(userLayoutBytes);
-                control.RestoreLayoutFromStream(stream);
-                stream.Seek(0, SeekOrigin.Begin);
-            }
-            catch
-            {
-
-            }
+            if (userLayoutBytes.Length == 0) return;
+            var stream = new MemoryStream(userLayoutBytes);
+            control.RestoreLayoutFromStream(stream);
+            stream.Seek(0, SeekOrigin.Begin);            
         }
 
         private void SaveControlLayoutToFile<T>(T control) where T : ISupportXtraSerializer
@@ -175,15 +166,6 @@ namespace TestDynamicListLayout
                 control.RestoreLayoutFromStream(stream);
                 stream.Close();
             }
-        }
-    }
-
-    public static class DbHelper
-    {
-        public static IEnumerable<AssetInfo> GetAssetDataFromFile()
-        {
-            var content = File.ReadAllText("Assets.json");
-            return JsonSerializer.Deserialize<List<AssetInfo>>(content) ?? [];
         }
     }
 }
